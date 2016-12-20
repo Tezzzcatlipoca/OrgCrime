@@ -1,0 +1,2457 @@
+ENTMUN	nombre	pop
+01 001	Aguascalientes	797010
+01 002	Asientos	45492
+01 003	Calvillo	54136
+01 004	Cos°o	15042
+01 005	Jes£s Mar°a	99590
+01 006	Pabell¢n de Arteaga	41862
+01 007	Rinc¢n de Romos	49156
+01 008	San JosÇ de Gracia	8443
+01 009	Tepezal†	19668
+01 010	El Llano	18828
+01 011	San Francisco de los Romo	35769
+02 001	Ensenada	466814
+02 002	Mexicali	936826
+02 003	Tecate	101079
+02 004	Tijuana	1559683
+02 005	Playas de Rosarito	90668
+03 001	Comond£	70816
+03 002	MulegÇ	59114
+03 003	La Paz	251871
+03 008	Los Cabos	238487
+03 009	Loreto	16738
+04 001	Calkin°	52890
+04 002	Campeche	259005
+04 003	Carmen	221094
+04 004	Champot¢n	83021
+04 005	Hecelchak†n	28306
+04 006	HopelchÇn	37777
+04 007	Palizada	8352
+04 008	Tenabo	9736
+04 009	Esc†rcega	54184
+04 010	Calakmul	26882
+04 011	Candelaria	41194
+05 001	Abasolo	1070
+05 002	Acu§a	136755
+05 003	Allende	22675
+05 004	Arteaga	22544
+05 005	Candela	1808
+05 006	Casta§os	25892
+05 007	Cuatro CiÇnegas	13013
+05 008	Escobedo	2901
+05 009	Francisco I. Madero	55676
+05 010	Frontera	75215
+05 011	General Cepeda	11682
+05 012	Guerrero	2091
+05 013	Hidalgo	1852
+05 014	JimÇnez	9935
+05 015	Ju†rez	1599
+05 016	Lamadrid	1835
+05 017	Matamoros	107160
+05 018	Monclova	216206
+05 019	Morelos	8207
+05 020	M£zquiz	66834
+05 021	Nadadores	6335
+05 022	Nava	27928
+05 023	Ocampo	10991
+05 024	Parras	45401
+05 025	Piedras Negras	152806
+05 026	Progreso	3473
+05 027	Ramos Arizpe	75461
+05 028	Sabinas	60847
+05 029	Sacramento	2314
+05 030	Saltillo	725123
+05 031	San Buenaventura	22149
+05 032	San Juan de Sabinas	41649
+05 033	San Pedro	102650
+05 034	Sierra Mojada	6375
+05 035	Torre¢n	639629
+05 036	Viesca	21319
+05 037	Villa Uni¢n	6289
+05 038	Zaragoza	12702
+06 001	Armer°a	28695
+06 002	Colima	146904
+06 003	Comala	20888
+06 004	Coquimatl†n	19385
+06 005	CuauhtÇmoc	27107
+06 006	Ixtlahuac†n	5300
+06 007	Manzanillo	161420
+06 008	Minatitl†n	8174
+06 009	Tecom†n	112726
+06 010	Villa de µlvarez	119956
+07 001	Acacoyagua	16814
+07 002	Acala	28947
+07 003	Acapetahua	27580
+07 004	Altamirano	29865
+07 005	Amat†n	21275
+07 006	Amatenango de la Frontera	29547
+07 007	Amatenango del Valle	8728
+07 008	Angel Albino Corzo	26628
+07 009	Arriaga	40042
+07 010	Bejucal de Ocampo	7623
+07 011	Bella Vista	19281
+07 012	Berrioz†bal	43179
+07 013	Bochil	30642
+07 014	El Bosque	18559
+07 015	Cacahoat†n	43811
+07 016	Catazaj†	17140
+07 017	Cintalapa	78114
+07 018	Coapilla	8444
+07 019	Comit†n de Dom°nguez	141013
+07 020	La Concordia	44082
+07 021	Copainal†	21050
+07 022	Chalchihuit†n	14027
+07 023	Chamula	76941
+07 024	Chanal	10817
+07 025	Chapultenango	7332
+07 026	Chenalh¢	36111
+07 027	Chiapa de Corzo	87603
+07 028	Chiapilla	5405
+07 029	ChicoasÇn	5018
+07 030	Chicomuselo	31515
+07 031	Chil¢n	111554
+07 032	Escuintla	30068
+07 033	Francisco Le¢n	7000
+07 034	Frontera Comalapa	67012
+07 035	Frontera Hidalgo	12665
+07 036	La Grandeza	7272
+07 037	Huehuet†n	33444
+07 038	Huixt†n	21507
+07 039	Huitiup†n	22536
+07 040	Huixtla	51359
+07 041	La Independencia	41266
+07 042	Ixhuat†n	10239
+07 043	Ixtacomit†n	10176
+07 044	Ixtapa	24517
+07 045	Ixtapangajoya	5478
+07 046	Jiquipilas	37818
+07 047	Jitotol	18683
+07 048	Ju†rez	21084
+07 049	Larr†inzar	20349
+07 050	La Libertad	4974
+07 051	Mapastepec	43913
+07 052	Las Margaritas	111484
+07 053	Mazapa de Madero	7793
+07 054	Mazat†n	26573
+07 055	Metapa	5033
+07 056	Mitontic	11157
+07 057	Motozintla	69119
+07 058	Nicol†s Ru°z	4317
+07 059	Ocosingo	198877
+07 060	Ocotepec	11878
+07 061	Ocozocoautla de Espinosa	82059
+07 062	Ostuac†n	17067
+07 063	Osumacinta	3792
+07 064	Oxchuc	43350
+07 065	Palenque	110918
+07 066	Pantelh¢	20589
+07 067	Pantepec	10870
+07 068	Pichucalco	29813
+07 069	Pijijiapan	50079
+07 070	El Porvenir	13201
+07 071	Villa Comaltitl†n	27899
+07 072	Pueblo Nuevo Solistahuac†n	31075
+07 073	Ray¢n	9002
+07 074	Reforma	40711
+07 075	Las Rosas	25530
+07 076	Sabanilla	25187
+07 077	Salto de Agua	57253
+07 078	San Crist¢bal de las Casas	185917
+07 079	San Fernando	33060
+07 080	Siltepec	38143
+07 081	Simojovel	40297
+07 082	Sital†	12269
+07 083	Socoltenango	17125
+07 084	Solosuchiapa	8065
+07 085	Soyal¢	9740
+07 086	Suchiapa	21045
+07 087	Suchiate	35056
+07 088	Sunuapa	2235
+07 089	Tapachula	320451
+07 090	Tapalapa	4121
+07 091	Tapilula	12170
+07 092	Tecpat†n	41045
+07 093	Tenejapa	40268
+07 094	Teopisca	37607
+07 096	Tila	71432
+07 097	Tonal†	84594
+07 098	Totolapa	6375
+07 099	La Trinitaria	72769
+07 100	Tumbal†	31723
+07 101	Tuxtla GutiÇrrez	553374
+07 102	Tuxtla Chico	37737
+07 103	Tuzant†n	28137
+07 104	Tzimol	14009
+07 105	Uni¢n Ju†rez	14089
+07 106	Venustiano Carranza	61341
+07 107	Villa Corzo	74477
+07 108	Villaflores	98618
+07 109	Yajal¢n	34028
+07 110	San Lucas	6734
+07 111	Zinacant†n	36489
+07 112	San Juan Cancuc	29016
+07 113	Aldama	5072
+07 114	BenemÇrito de las AmÇricas	17282
+07 115	Maravilla Tenejapa	11451
+07 116	MarquÇs de Comillas	9856
+07 117	Montecristo de Guerrero	6900
+07 118	San AndrÇs Duraznal	4545
+07 119	Santiago el Pinar	3245
+08 001	Ahumada	11457
+08 002	Aldama	22302
+08 003	Allende	8409
+08 004	Aquiles Serd†n	10688
+08 005	Ascensi¢n	23975
+08 006	Bach°niva	6011
+08 007	Balleza	17672
+08 008	Batopilas	14362
+08 009	Bocoyna	28766
+08 010	Buenaventura	22378
+08 011	Camargo	48748
+08 012	Carich°	8795
+08 013	Casas Grandes	10587
+08 014	Coronado	2284
+08 015	Coyame del Sotol	1681
+08 016	La Cruz	3982
+08 017	CuauhtÇmoc	154639
+08 018	Cusihuiriachi	5414
+08 019	Chihuahua	819543
+08 020	Ch°nipas	8441
+08 021	Delicias	137935
+08 022	Dr. Belisario Dom°nguez	2911
+08 023	Galeana	5892
+08 024	Santa Isabel	3937
+08 025	G¢mez Far°as	8624
+08 026	Gran Morelos	3209
+08 027	Guachochi	49689
+08 028	Guadalupe	6458
+08 029	Guadalupe y Calvo	53499
+08 030	Guazapares	8998
+08 031	Guerrero	39626
+08 032	Hidalgo del Parral	107061
+08 033	Huejotit†n	1049
+08 034	Ignacio Zaragoza	6934
+08 035	Janos	10953
+08 036	JimÇnez	41265
+08 037	Ju†rez	1332131
+08 038	Julimes	4953
+08 039	L¢pez	4025
+08 040	Madera	29611
+08 041	Maguarichi	1921
+08 042	Manuel Benavides	1601
+08 043	Matach°	3104
+08 044	Matamoros	4499
+08 045	Meoqui	43833
+08 046	Morelos	8343
+08 047	Moris	5312
+08 048	Namiquipa	22880
+08 049	Nonoava	2849
+08 050	Nuevo Casas Grandes	59337
+08 051	Ocampo	7546
+08 052	Ojinaga	26304
+08 053	Praxedis G. Guerrero	4799
+08 054	Riva Palacio	8012
+08 055	Rosales	16785
+08 056	Rosario	2235
+08 057	San Francisco de Borja	2290
+08 058	San Francisco de Conchos	2983
+08 059	San Francisco del Oro	4753
+08 060	Santa B†rbara	10427
+08 061	Satev¢	3662
+08 062	Saucillo	32325
+08 063	Tem¢sachic	6211
+08 064	El Tule	1869
+08 065	Urique	20386
+08 066	Uruachi	8200
+08 067	Valle de Zaragoza	5105
+09 002	Azcapotzalco	414711
+09 003	Coyoac†n	620416
+09 004	Cuajimalpa de Morelos	186391
+09 005	Gustavo A. Madero	1185772
+09 006	Iztacalco	384326
+09 007	Iztapalapa	1815786
+09 008	La Magdalena Contreras	239086
+09 009	Milpa Alta	130582
+09 010	µlvaro Obreg¢n	727034
+09 011	Tl†huac	360265
+09 012	Tlalpan	650567
+09 013	Xochimilco	415007
+09 014	Benito Ju†rez	385439
+09 015	CuauhtÇmoc	531831
+09 016	Miguel Hidalgo	372889
+09 017	Venustiano Carranza	430978
+10 001	Canatl†n	31401
+10 002	Canelas	4122
+10 003	Coneto de Comonfort	4530
+10 004	CuencamÇ	33664
+10 005	Durango	582267
+10 006	General Sim¢n Bol°var	10629
+10 007	G¢mez Palacio	327985
+10 008	Guadalupe Victoria	34052
+10 009	Guanacev°	10149
+10 010	Hidalgo	4265
+10 011	IndÇ	5280
+10 012	Lerdo	141043
+10 013	Mapim°	25137
+10 014	Mezquital	33396
+10 015	Nazas	12411
+10 016	Nombre de Dios	18488
+10 017	Ocampo	9626
+10 018	El Oro	11320
+10 019	Ot†ez	5208
+10 020	P†nuco de Coronado	11927
+10 021	Pe§¢n Blanco	10473
+10 022	Poanas	24918
+10 023	Pueblo Nuevo	49162
+10 024	Rodeo	12788
+10 025	San Bernardo	3433
+10 026	San Dimas	19691
+10 027	San Juan de Guadalupe	5947
+10 028	San Juan del R°o	11855
+10 029	San Luis del Cordero	2181
+10 030	San Pedro del Gallo	1709
+10 031	Santa Clara	7003
+10 032	Santiago Papasquiaro	44966
+10 033	S£chil	6761
+10 034	Tamazula	26368
+10 035	Tepehuanes	10745
+10 036	Tlahualilo	22244
+10 037	Topia	8581
+10 038	Vicente Guerrero	21117
+10 039	Nuevo Ideal	26092
+11 001	Abasolo	84332
+11 002	Ac†mbaro	109030
+11 003	San Miguel de Allende	160383
+11 004	Apaseo el Alto	64433
+11 005	Apaseo el Grande	85319
+11 006	Atarjea	5610
+11 007	Celaya	468469
+11 008	Manuel Doblado	37145
+11 009	Comonfort	77794
+11 010	Coroneo	11691
+11 011	Cortazar	88397
+11 012	Cuer†maro	27308
+11 013	Doctor Mora	23324
+11 014	Dolores Hidalgo Cuna de la Independencia Nacional	148173
+11 015	Guanajuato	171709
+11 016	Huan°maro	20117
+11 017	Irapuato	529440
+11 018	Jaral del Progreso	36584
+11 019	JerÇcuaro	50832
+11 020	Le¢n	1436480
+11 021	Morole¢n	49364
+11 022	Ocampo	22683
+11 023	PÇnjamo	149936
+11 024	Pueblo Nuevo	11169
+11 025	Pur°sima del Rinc¢n	68795
+11 026	Romita	56655
+11 027	Salamanca	260732
+11 028	Salvatierra	97054
+11 029	San Diego de la Uni¢n	37103
+11 030	San Felipe	106952
+11 031	San Francisco del Rinc¢n	113570
+11 032	San JosÇ Iturbide	72411
+11 033	San Luis de la Paz	115656
+11 034	Santa Catarina	5120
+11 035	Santa Cruz de Juventino Rosas	79214
+11 036	Santiago Maravat°o	6670
+11 037	Silao	173024
+11 038	Tarandacuao	11641
+11 039	Tarimoro	35571
+11 040	Tierra Blanca	18175
+11 041	Uriangato	59305
+11 042	Valle de Santiago	141058
+11 043	Victoria	19820
+11 044	Villagr†n	55782
+11 045	Xich£	11560
+11 046	Yuriria	70782
+12 001	Acapulco de Ju†rez	789971
+12 002	Ahuacuotzingo	25027
+12 003	Ajuchitl†n del Progreso	38203
+12 004	Alcozauca de Guerrero	18971
+12 005	Alpoyeca	6637
+12 006	Apaxtla	12389
+12 007	Arcelia	32181
+12 008	Atenango del R°o	8390
+12 009	Atlamajalcingo del Monte	5706
+12 010	Atlixtac	26341
+12 011	Atoyac de µlvarez	61316
+12 012	Ayutla de los Libres	62690
+12 013	Azoy£	14429
+12 014	Benito Ju†rez	15019
+12 015	Buenavista de CuÇllar	12688
+12 016	Coahuayutla de JosÇ Mar°a Izazaga	13025
+12 017	Cocula	14707
+12 018	Copala	13636
+12 019	Copalillo	14456
+12 020	Copanatoyac	18855
+12 021	Coyuca de Ben°tez	73460
+12 022	Coyuca de Catal†n	42069
+12 023	Cuajinicuilapa	25922
+12 024	Cual†c	7007
+12 025	Cuautepec	15115
+12 026	Cuetzala del Progreso	9166
+12 027	Cutzamala de Pinz¢n	21388
+12 028	Chilapa de µlvarez	120790
+12 029	Chilpancingo de los Bravo	241717
+12 030	Florencio Villarreal	20175
+12 031	General Canuto A. Neri	6301
+12 032	General Heliodoro Castillo	36586
+12 033	Huamuxtitl†n	14393
+12 034	Huitzuco de los Figueroa	37364
+12 035	Iguala de la Independencia	140363
+12 036	Igualapa	10815
+12 037	Ixcateopan de CuauhtÇmoc	6603
+12 038	Zihuatanejo de Azueta	118211
+12 039	Juan R. Escudero	24364
+12 040	Leonardo Bravo	24720
+12 041	Malinaltepec	29599
+12 042	M†rtir de Cuilapan	17702
+12 043	Metlat¢noc	18976
+12 044	Mochitl†n	11376
+12 045	Olinal†	24723
+12 046	Ometepec	61306
+12 047	Pedro Ascencio Alquisiras	6978
+12 048	Petatl†n	44979
+12 049	Pilcaya	11558
+12 050	Pungarabato	37035
+12 051	Quechultenango	34728
+12 052	San Luis Acatl†n	42360
+12 053	San Marcos	48501
+12 054	San Miguel Totolapan	28009
+12 055	Taxco de Alarc¢n	104053
+12 056	Tecoanapa	44079
+12 057	TÇcpan de Galeana	62071
+12 058	Teloloapan	53769
+12 059	Tepecoacuilco de Trujano	30470
+12 060	Tetipac	13128
+12 061	Tixtla de Guerrero	40058
+12 062	Tlacoachistlahuaca	21306
+12 063	Tlacoapa	9967
+12 064	Tlalchapa	11495
+12 065	Tlalixtaquilla de Maldonado	7096
+12 066	Tlapa de Comonfort	81419
+12 067	Tlapehuala	21819
+12 068	La Uni¢n de Isidoro Montes de Oca	25712
+12 069	Xalpatl†huac	12240
+12 070	Xochihuehuetl†n	7079
+12 071	Xochistlahuaca	28089
+12 072	Zapotitl†n Tablas	10516
+12 073	Zir†ndaro	18813
+12 074	Zitlala	22587
+12 075	Eduardo Neri	46158
+12 076	Acatepec	32792
+12 077	Marquelia	12912
+12 078	Cochoapa el Grande	18778
+12 079	JosÇ Joaqu°n de Herrera	15678
+12 080	Juchit†n	7166
+12 081	Iliatenco	10522
+13 001	Acatl†n	20077
+13 002	Acaxochitl†n	40583
+13 003	Actopan	54299
+13 004	Agua Blanca de Iturbide	8994
+13 005	Ajacuba	17055
+13 006	Alfajayucan	18879
+13 007	Almoloya	11294
+13 008	Apan	42563
+13 009	El Arenal	17374
+13 010	Atitalaquia	26904
+13 011	Atlapexco	19452
+13 012	Atotonilco el Grande	26940
+13 013	Atotonilco de Tula	31078
+13 014	Calnali	16962
+13 015	Cardonal	18427
+13 016	Cuautepec de Hinojosa	54500
+13 017	Chapantongo	12271
+13 018	Chapulhuac†n	22402
+13 019	Chilcuautla	17436
+13 020	Eloxochitl†n	2800
+13 021	Emiliano Zapata	13357
+13 022	Epazoyucan	13830
+13 023	Francisco I. Madero	33901
+13 024	Huasca de Ocampo	17182
+13 025	Huautla	22621
+13 026	Huazalingo	12779
+13 027	Huehuetla	23563
+13 028	Huejutla de Reyes	122905
+13 029	Huichapan	44253
+13 030	Ixmiquilpan	86363
+13 031	Jacala de Ledezma	12804
+13 032	Jaltoc†n	10933
+13 033	Ju†rez Hidalgo	3193
+13 034	Lolotla	9843
+13 035	Metepec	11429
+13 036	San Agust°n Metzquititl†n	9364
+13 037	Metztitl†n	21623
+13 038	Mineral del Chico	7980
+13 039	Mineral del Monte	13864
+13 040	La Misi¢n	10452
+13 041	Mixquiahuala de Ju†rez	42834
+13 042	Molango de Escamilla	11209
+13 043	Nicol†s Flores	6614
+13 044	Nopala de Villagr†n	15666
+13 045	Omitl†n de Ju†rez	8963
+13 046	San Felipe Orizatl†n	39181
+13 047	Pacula	5049
+13 048	Pachuca de Soto	267862
+13 049	Pisaflores	18244
+13 050	Progreso de Obreg¢n	22217
+13 051	Mineral de la Reforma	127404
+13 052	San Agust°n Tlaxiaca	32057
+13 053	San Bartolo Tutotepec	18137
+13 054	San Salvador	32773
+13 055	Santiago de Anaya	16014
+13 056	Santiago Tulantepec de Lugo Guerrero	33495
+13 057	Singuilucan	14851
+13 058	Tasquillo	16865
+13 059	Tecozautla	35067
+13 060	Tenango de Doria	17206
+13 061	Tepeapulco	51664
+13 062	Tepehuac†n de Guerrero	29125
+13 063	Tepeji del R°o de Ocampo	80612
+13 064	Tepetitl†n	9940
+13 065	Tetepango	11112
+13 066	Villa de Tezontepec	11654
+13 067	Tezontepec de Aldama	48025
+13 068	Tianguistengo	14037
+13 069	Tizayuca	97461
+13 070	Tlahuelilpan	17153
+13 071	Tlahuiltepa	9753
+13 072	Tlanalapa	10248
+13 073	Tlanchinol	36382
+13 074	Tlaxcoapan	26758
+13 075	Tolcayuca	13228
+13 076	Tula de Allende	103919
+13 077	Tulancingo de Bravo	151584
+13 078	Xochiatipan	19067
+13 079	Xochicoatl†n	7320
+13 080	Yahualica	23607
+13 081	Zacualtip†n de µngeles	32437
+13 082	Zapotl†n de Ju†rez	18036
+13 083	Zempoala	39143
+13 084	Zimap†n	38516
+14 001	Acatic	21206
+14 002	Acatl†n de Ju†rez	23241
+14 003	Ahualulco de Mercado	21714
+14 004	Amacueca	5545
+14 005	Amatit†n	14648
+14 006	Ameca	57340
+14 007	San Juanito de Escobedo	8896
+14 008	Arandas	72812
+14 009	El Arenal	17545
+14 010	Atemajac de Brizuela	6655
+14 011	Atengo	5400
+14 012	Atenguillo	4115
+14 013	Atotonilco el Alto	57717
+14 014	Atoyac	8276
+14 015	Autl†n de Navarro	57559
+14 016	Ayotl†n	38291
+14 017	Ayutla	12664
+14 018	La Barca	64269
+14 019	Bola§os	6820
+14 020	Cabo Corrientes	10029
+14 021	Casimiro Castillo	21475
+14 022	Cihuatl†n	39020
+14 023	Zapotl†n el Grande	100534
+14 024	Cocula	26174
+14 025	Colotl†n	18091
+14 026	Concepci¢n de Buenos Aires	5933
+14 027	Cuautitl†n de Garc°a Barrag†n	17322
+14 028	Cuautla	2171
+14 029	Cuqu°o	17795
+14 030	Chapala	48839
+14 031	Chimaltit†n	3771
+14 032	Chiquilistl†n	5814
+14 033	Degollado	21132
+14 034	Ejutla	2082
+14 035	Encarnaci¢n de D°az	51396
+14 036	Etzatl†n	18632
+14 037	El Grullo	23845
+14 038	Guachinango	4323
+14 039	Guadalajara	1495189
+14 040	Hostotipaquillo	10284
+14 041	Huej£car	6084
+14 042	Huejuquilla el Alto	8781
+14 043	La Huerta	23428
+14 044	Ixtlahuac†n de los Membrillos	41060
+14 045	Ixtlahuac†n del R°o	19005
+14 046	Jalostotitl†n	31948
+14 047	Jamay	22881
+14 048	Jes£s Mar°a	18634
+14 049	Jilotl†n de los Dolores	9545
+14 050	Jocotepec	42164
+14 051	Juanacatl†n	13218
+14 052	Juchitl†n	5515
+14 053	Lagos de Moreno	153817
+14 054	El Lim¢n	5499
+14 055	Magdalena	21321
+14 056	Santa Mar°a del Oro	2517
+14 057	La Manzanilla de la Paz	3755
+14 058	Mascota	14245
+14 059	Mazamitla	13225
+14 060	Mexticac†n	6034
+14 061	Mezquitic	18084
+14 062	Mixtl†n	3574
+14 063	Ocotl†n	92967
+14 064	Ojuelos de Jalisco	30097
+14 065	Pihuamo	12119
+14 066	Poncitl†n	48408
+14 067	Puerto Vallarta	255681
+14 068	Villa Purificaci¢n	11623
+14 069	Quitupan	8691
+14 070	El Salto	138226
+14 071	San Crist¢bal de la Barranca	3176
+14 072	San Diego de Alejandr°a	6647
+14 073	San Juan de los Lagos	65219
+14 074	San Juli†n	15454
+14 075	San Marcos	3762
+14 076	San Mart°n de Bola§os	3405
+14 077	San Mart°n Hidalgo	26306
+14 078	San Miguel el Alto	31166
+14 079	G¢mez Far°as	14011
+14 080	San Sebasti†n del Oeste	5755
+14 081	Santa Mar°a de los µngeles	3726
+14 082	Sayula	34829
+14 083	Tala	69031
+14 084	Talpa de Allende	14410
+14 085	Tamazula de Gordiano	37986
+14 086	Tapalpa	18096
+14 087	Tecalitl†n	16847
+14 088	Tecolotl†n	16573
+14 089	Techaluta de Montenegro	3511
+14 090	Tenamaxtl†n	7051
+14 091	Teocaltiche	40105
+14 092	Teocuitatl†n de Corona	10837
+14 093	Tepatitl†n de Morelos	136123
+14 094	Tequila	40697
+14 095	Teuchitl†n	9088
+14 096	Tizap†n el Alto	20857
+14 097	Tlajomulco de Z£§iga	416626
+14 098	Tlaquepaque	608114
+14 099	Tolim†n	9591
+14 100	Tomatl†n	35050
+14 101	Tonal†	478689
+14 102	Tonaya	5930
+14 103	Tonila	7256
+14 104	Totatiche	4435
+14 105	Tototl†n	21871
+14 106	Tuxcacuesco	4234
+14 107	Tuxcueca	6316
+14 108	Tuxpan	34182
+14 109	Uni¢n de San Antonio	17325
+14 110	Uni¢n de Tula	13737
+14 111	Valle de Guadalupe	6705
+14 112	Valle de Ju†rez	5798
+14 113	San Gabriel	15310
+14 114	Villa Corona	16969
+14 115	Villa Guerrero	5638
+14 116	Villa Hidalgo	18711
+14 117	Ca§adas de Obreg¢n	4152
+14 118	Yahualica de Gonz†lez Gallo	22284
+14 119	Zacoalco de Torres	27901
+14 120	Zapopan	1243756
+14 121	Zapotiltic	29192
+14 122	Zapotitl†n de Vadillo	6685
+14 123	Zapotl†n del Rey	17585
+14 124	Zapotlanejo	63636
+14 125	San Ignacio Cerro Gordo	17626
+15 001	Acambay	60918
+15 002	Acolman	136558
+15 003	Aculco	44823
+15 004	Almoloya de Alquisiras	14856
+15 005	Almoloya de Ju†rez	147653
+15 006	Almoloya del R°o	10886
+15 007	Amanalco	22868
+15 008	Amatepec	26334
+15 009	Amecameca	48421
+15 010	Apaxco	27521
+15 011	Atenco	56243
+15 012	Atizap†n	10299
+15 013	Atizap†n de Zaragoza	489937
+15 014	Atlacomulco	93718
+15 015	Atlautla	27663
+15 016	Axapusco	25559
+15 017	Ayapango	8864
+15 018	Calimaya	47033
+15 019	Capulhuac	34101
+15 020	Coacalco de Berrioz†bal	278064
+15 021	Coatepec Harinas	36174
+15 022	Cocotitl†n	12142
+15 023	Coyotepec	39030
+15 024	Cuautitl†n	140059
+15 025	Chalco	310130
+15 026	Chapa de Mota	27551
+15 027	Chapultepec	9676
+15 028	Chiautla	26191
+15 029	Chicoloapan	175053
+15 030	Chiconcuac	22819
+15 031	Chimalhuac†n	614453
+15 032	Donato Guerra	33455
+15 033	Ecatepec de Morelos	1656107
+15 034	Ecatzingo	9369
+15 035	Huehuetoca	100023
+15 036	Hueypoxtla	39864
+15 037	Huixquilucan	242167
+15 038	Isidro Fabela	10308
+15 039	Ixtapaluca	467361
+15 040	Ixtapan de la Sal	33541
+15 041	Ixtapan del Oro	6629
+15 042	Ixtlahuaca	141482
+15 043	Xalatlaco	26865
+15 044	Jaltenco	26328
+15 045	Jilotepec	83755
+15 046	Jilotzingo	17970
+15 047	Jiquipilco	69031
+15 048	Jocotitl†n	61204
+15 049	Joquicingo	12840
+15 050	Juchitepec	23497
+15 051	Lerma	134799
+15 052	Malinalco	25624
+15 053	Melchor Ocampo	50240
+15 054	Metepec	214162
+15 055	Mexicaltzingo	11712
+15 056	Morelos	28426
+15 057	Naucalpan de Ju†rez	833779
+15 058	Nezahualc¢yotl	1110565
+15 059	Nextlalpan	31691
+15 060	Nicol†s Romero	366602
+15 061	Nopaltepec	8895
+15 062	Ocoyoacac	61805
+15 063	Ocuilan	31803
+15 064	El Oro	34446
+15 065	Otumba	34232
+15 066	Otzoloapan	4864
+15 067	Otzolotepec	78146
+15 068	Ozumba	27207
+15 069	Papalotla	4147
+15 070	La Paz	253845
+15 071	Polotitl†n	13002
+15 072	Ray¢n	12748
+15 073	San Antonio la Isla	22152
+15 074	San Felipe del Progreso	121396
+15 075	San Mart°n de las Pir†mides	24851
+15 076	San Mateo Atenco	72579
+15 077	San Sim¢n de Guerrero	6272
+15 078	Santo Tom†s	9111
+15 079	Soyaniquilpan de Ju†rez	11798
+15 080	Sultepec	25809
+15 081	Tec†mac	364579
+15 082	Tejupilco	71077
+15 083	Temamatla	11206
+15 084	Temascalapa	35987
+15 085	Temascalcingo	62695
+15 086	Temascaltepec	32870
+15 087	Temoaya	90010
+15 088	Tenancingo	90946
+15 089	Tenango del Aire	10578
+15 090	Tenango del Valle	77965
+15 091	Teoloyucan	63115
+15 092	Teotihuac†n	53010
+15 093	Tepetlaoxtoc	27944
+15 094	Tepetlixpa	18327
+15 095	Tepotzotl†n	88559
+15 096	Tequixquiac	33907
+15 097	Texcaltitl†n	17390
+15 098	Texcalyacac	5111
+15 099	Texcoco	235151
+15 100	Tezoyuca	35199
+15 101	Tianguistenco	70682
+15 102	Timilpan	15391
+15 103	Tlalmanalco	46130
+15 104	Tlalnepantla de Baz	664225
+15 105	Tlatlaya	32997
+15 106	Toluca	819561
+15 107	Tonatico	12099
+15 108	Tultepec	131567
+15 109	Tultitl†n	486998
+15 110	Valle de Bravo	61599
+15 111	Villa de Allende	47709
+15 112	Villa del Carb¢n	44881
+15 113	Villa Guerrero	59991
+15 114	Villa Victoria	94369
+15 115	Xonacatl†n	46331
+15 116	Zacazonapan	4051
+15 117	Zacualpan	15121
+15 118	Zinacantepec	167759
+15 119	Zumpahuac†n	16365
+15 120	Zumpango	159647
+15 121	Cuautitl†n Izcalli	511675
+15 122	Valle de Chalco Solidaridad	357645
+15 123	Luvianos	27781
+15 124	San JosÇ del Rinc¢n	91345
+15 125	Tonanitla	10216
+16 001	Acuitzio	10987
+16 002	Aguililla	16214
+16 003	µlvaro Obreg¢n	20913
+16 004	Angamacutiro	14684
+16 005	Angangueo	10768
+16 006	Apatzing†n	123649
+16 007	Aporo	3218
+16 008	Aquila	23536
+16 009	Ario	34848
+16 010	Arteaga	21790
+16 011	Brise§as	10653
+16 012	Buenavista	42234
+16 013	Car†cuaro	9212
+16 014	Coahuayana	14136
+16 015	Coalcom†n de V†zquez Pallares	17615
+16 016	Coeneo	20492
+16 017	Contepec	32954
+16 018	Cop†ndaro	8952
+16 019	Cotija	19644
+16 020	Cuitzeo	28227
+16 021	Charapan	12163
+16 022	Charo	21723
+16 023	Chavinda	9975
+16 024	Cher†n	18141
+16 025	Chilchota	36293
+16 026	Chinicuila	5271
+16 027	Chuc†ndiro	5166
+16 028	Churintzio	5564
+16 029	Churumuco	14366
+16 030	Ecuandureo	12855
+16 031	Epitacio Huerta	16218
+16 032	Erongar°cuaro	14555
+16 033	Gabriel Zamora	21294
+16 034	Hidalgo	117620
+16 035	La Huacana	32757
+16 036	Huandacareo	11592
+16 037	Huaniqueo	7983
+16 038	Huetamo	41937
+16 039	Huiramba	7925
+16 040	Indaparapeo	16427
+16 041	Irimbo	14766
+16 042	Ixtl†n	13584
+16 043	Jacona	64011
+16 044	JimÇnez	13275
+16 045	Jiquilpan	34199
+16 046	Ju†rez	13604
+16 047	Jungapeo	19986
+16 048	Lagunillas	5506
+16 049	Madero	17427
+16 050	Maravat°o	80258
+16 051	Marcos Castellanos	13031
+16 052	L†zaro C†rdenas	178817
+16 053	Morelia	729279
+16 054	Morelos	8091
+16 055	M£gica	44963
+16 056	Nahuatzen	27174
+16 057	NocupÇtaro	7799
+16 058	Nuevo Parangaricutiro	18834
+16 059	Nuevo Urecho	8240
+16 060	Numar†n	9599
+16 061	Ocampo	22628
+16 062	Pajacuar†n	19450
+16 063	Panind°cuaro	16064
+16 064	Par†cuaro	25343
+16 065	Paracho	34721
+16 066	P†tzcuaro	87794
+16 067	Penjamillo	17159
+16 068	Perib†n	25296
+16 069	La Piedad	99576
+16 070	PurÇpero	15306
+16 071	Puru†ndiro	67837
+16 072	QuerÇndaro	13550
+16 073	Quiroga	25592
+16 074	Cojumatl†n de RÇgules	9980
+16 075	Los Reyes	64141
+16 076	Sahuayo	72841
+16 077	San Lucas	18461
+16 078	Santa Ana Maya	12618
+16 079	Salvador Escalante	45217
+16 080	Senguio	18427
+16 081	Susupuato	8704
+16 082	Tac†mbaro	69955
+16 083	Tanc°taro	29414
+16 084	Tangamandapio	27822
+16 085	Tanganc°cuaro	32677
+16 086	Tanhuato	15176
+16 087	Taretan	13558
+16 088	Tar°mbaro	78623
+16 089	Tepalcatepec	22987
+16 090	Tingambato	13950
+16 091	TingÅind°n	13511
+16 092	Tiquicheo de Nicol†s Romero	14274
+16 093	Tlalpujahua	27587
+16 094	Tlazazalca	6890
+16 095	Tocumbo	11504
+16 096	Tumbiscat°o	7890
+16 097	Turicato	31877
+16 098	Tuxpan	26026
+16 099	Tuzantla	16305
+16 100	Tzintzuntzan	13556
+16 101	Tzitzio	9166
+16 102	Uruapan	315350
+16 103	Venustiano Carranza	23457
+16 104	Villamar	16991
+16 105	Vista Hermosa	18995
+16 106	YurÇcuaro	29995
+16 107	Zacapu	73455
+16 108	Zamora	186102
+16 109	Zin†paro	3247
+16 110	ZinapÇcuaro	46666
+16 111	Ziracuaretiro	15222
+16 112	Zit†cuaro	155534
+16 113	JosÇ Sixto Verduzco	25576
+17 001	Amacuzac	17021
+17 002	Atlatlahucan	18895
+17 003	Axochiapan	33695
+17 004	Ayala	78866
+17 005	Coatl†n del R°o	9471
+17 006	Cuautla	175207
+17 007	Cuernavaca	365168
+17 008	Emiliano Zapata	83485
+17 009	Huitzilac	17340
+17 010	Jantetelco	15646
+17 011	Jiutepec	196953
+17 012	Jojutla	55115
+17 013	Jonacatepec	14604
+17 014	Mazatepec	9456
+17 015	Miacatl†n	24990
+17 016	Ocuituco	16858
+17 017	Puente de Ixtla	61585
+17 018	Temixco	108126
+17 019	Tepalcingo	25346
+17 020	Tepoztl†n	41629
+17 021	Tetecala	7441
+17 022	Tetela del Volc†n	19138
+17 023	Tlalnepantla	6636
+17 024	Tlaltizap†n	48881
+17 025	Tlaquiltenango	31534
+17 026	Tlayacapan	16543
+17 027	Totolapan	10789
+17 028	Xochitepec	63382
+17 029	Yautepec	97827
+17 030	Yecapixtla	46809
+17 031	Zacatepec	35063
+17 032	Zacualpan	9087
+17 033	Temoac	14641
+18 001	Acaponeta	36572
+18 002	Ahuacatl†n	15229
+18 003	Amatl†n de Ca§as	11188
+18 004	Compostela	70399
+18 005	Huajicori	11400
+18 006	Ixtl†n del R°o	27273
+18 007	Jala	17698
+18 008	Xalisco	49102
+18 009	Del Nayar	34300
+18 010	Rosamorada	34393
+18 011	Ru°z	23469
+18 012	San Blas	43120
+18 013	San Pedro Lagunillas	7510
+18 014	Santa Mar°a del Oro	22412
+18 015	Santiago Ixcuintla	93074
+18 016	Tecuala	39756
+18 017	Tepic	380249
+18 018	Tuxpan	30030
+18 019	La Yesca	13600
+18 020	Bah°a de Banderas	124205
+19 001	Abasolo	2791
+19 002	Agualeguas	3443
+19 003	Los Aldamas	1374
+19 004	Allende	32593
+19 005	An†huac	18480
+19 006	Apodaca	523370
+19 007	Aramberri	15470
+19 008	Bustamante	3773
+19 009	Cadereyta JimÇnez	86445
+19 010	Carmen	16092
+19 011	Cerralvo	7855
+19 012	CiÇnega de Flores	24526
+19 013	China	10864
+19 014	Dr. Arroyo	35445
+19 015	Dr. Coss	1716
+19 016	Dr. Gonz†lez	3345
+19 017	Galeana	39991
+19 018	Garc°a	143668
+19 019	San Pedro Garza Garc°a	122659
+19 020	Gral. Bravo	5527
+19 021	Gral. Escobedo	357937
+19 022	Gral. Ter†n	14437
+19 023	Gral. Trevi§o	1277
+19 024	Gral. Zaragoza	5942
+19 025	Gral. Zuazua	55213
+19 026	Guadalupe	678006
+19 027	Los Herreras	2030
+19 028	Higueras	1594
+19 029	Hualahuises	6914
+19 030	Iturbide	3558
+19 031	Ju†rez	256970
+19 032	Lampazos de Naranjo	5349
+19 033	Linares	78669
+19 034	Mar°n	5488
+19 035	Melchor Ocampo	862
+19 036	Mier y Noriega	7095
+19 037	Mina	5447
+19 038	Montemorelos	59113
+19 039	Monterrey	1135550
+19 040	Par†s	1034
+19 041	Pesquer°a	20843
+19 042	Los Ramones	5359
+19 043	Rayones	2628
+19 044	Sabinas Hidalgo	34671
+19 045	Salinas Victoria	32660
+19 046	San Nicol†s de los Garza	443273
+19 047	Hidalgo	16604
+19 048	Santa Catarina	268955
+19 049	Santiago	40469
+19 050	Vallecillo	1971
+19 051	Villaldama	4113
+20 001	Abejones	1084
+20 002	Acatl†n de PÇrez Figueroa	44885
+20 003	Asunci¢n Cacalotepec	2495
+20 004	Asunci¢n Cuyotepeji	1012
+20 005	Asunci¢n Ixtaltepec	14751
+20 006	Asunci¢n Nochixtl†n	17820
+20 007	Asunci¢n Ocotl†n	2612
+20 008	Asunci¢n Tlacolulita	842
+20 009	Ayotzintepec	6720
+20 010	El Barrio de la Soledad	13608
+20 011	Calihual†	1220
+20 012	Candelaria Loxicha	9860
+20 013	CiÇnega de Zimatl†n	2785
+20 014	Ciudad Ixtepec	26450
+20 015	Coatecas Altas	4712
+20 016	Coicoy†n de las Flores	8531
+20 017	La Compa§°a	3302
+20 018	Concepci¢n Buenavista	834
+20 019	Concepci¢n P†palo	3071
+20 020	Constancia del Rosario	3860
+20 021	Cosolapa	14667
+20 022	Cosoltepec	866
+20 023	Cuil†pam de Guerrero	18428
+20 024	Cuyamecalco Villa de Zaragoza	3846
+20 025	Chahuites	11105
+20 026	Chalcatongo de Hidalgo	8481
+20 027	Chiquihuitl†n de Benito Ju†rez	2458
+20 028	Heroica Ciudad de Ejutla de Crespo	19679
+20 029	Eloxochitl†n de Flores Mag¢n	4263
+20 030	El Espinal	8310
+20 031	Tamazul†pam del Esp°ritu Santo	7362
+20 032	Fresnillo de Trujano	1033
+20 033	Guadalupe Etla	2433
+20 034	Guadalupe de Ram°rez	1425
+20 035	Guelatao de Ju†rez	544
+20 036	Guevea de Humboldt	5285
+20 037	Mesones Hidalgo	4402
+20 038	Villa Hidalgo	2112
+20 039	Heroica Ciudad de Huajuapan de Le¢n	69839
+20 040	Huautepec	5995
+20 041	Huautla de JimÇnez	30004
+20 042	Ixtl†n de Ju†rez	7674
+20 043	Heroica Ciudad de Juchit†n de Zaragoza	93038
+20 044	Loma Bonita	41535
+20 045	Magdalena Apasco	7522
+20 046	Magdalena Jaltepec	3313
+20 047	Santa Magdalena Jicotl†n	93
+20 048	Magdalena Mixtepec	1304
+20 049	Magdalena Ocotl†n	1141
+20 050	Magdalena Pe§asco	3778
+20 051	Magdalena Teitipac	4368
+20 052	Magdalena Tequisistl†n	6182
+20 053	Magdalena Tlacotepec	1221
+20 054	Magdalena Zahuatl†n	409
+20 055	Mariscala de Ju†rez	3530
+20 056	M†rtires de Tacubaya	1451
+20 057	Mat°as Romero Avenda§o	38019
+20 058	Mazatl†n Villa de Flores	13435
+20 059	Miahuatl†n de Porfirio D°az	41387
+20 060	Mixistl†n de la Reforma	2770
+20 061	Monjas	2568
+20 062	Natividad	586
+20 063	Nazareno Etla	3882
+20 064	Nejapa de Madero	7390
+20 065	Ixpantepec Nieves	1182
+20 066	Santiago Niltepec	5353
+20 067	Oaxaca de Ju†rez	263357
+20 068	Ocotl†n de Morelos	21341
+20 069	La Pe	2446
+20 070	Pinotepa de Don Luis	6629
+20 071	Pluma Hidalgo	3060
+20 072	San JosÇ del Progreso	6579
+20 073	Putla Villa de Guerrero	31897
+20 074	Santa Catarina Quioquitani	505
+20 075	Reforma de Pineda	2671
+20 076	La Reforma	3331
+20 077	Reyes Etla	3568
+20 078	Rojas de CuauhtÇmoc	1092
+20 079	Salina Cruz	82371
+20 080	San Agust°n Amatengo	1312
+20 081	San Agust°n Atenango	1914
+20 082	San Agust°n Chayuco	3952
+20 083	San Agust°n de las Juntas	8089
+20 084	San Agust°n Etla	3893
+20 085	San Agust°n Loxicha	22565
+20 086	San Agust°n Tlacotepec	874
+20 087	San Agust°n Yatareni	4075
+20 088	San AndrÇs Cabecera Nueva	2851
+20 089	San AndrÇs Dinicuiti	2152
+20 090	San AndrÇs Huaxpaltepec	5867
+20 091	San AndrÇs Huay†pam	4879
+20 092	San AndrÇs Ixtlahuaca	1439
+20 093	San AndrÇs Lagunas	505
+20 094	San AndrÇs Nuxi§o	1898
+20 095	San AndrÇs Paxtl†n	3990
+20 096	San AndrÇs Sinaxtla	772
+20 097	San AndrÇs Solaga	1740
+20 098	San AndrÇs Teotil†lpam	4427
+20 099	San AndrÇs Tepetlapa	475
+20 100	San AndrÇs Ya†	497
+20 101	San AndrÇs Zabache	726
+20 102	San AndrÇs Zautla	4405
+20 103	San Antonino Castillo Velasco	5651
+20 104	San Antonino el Alto	2508
+20 105	San Antonino Monte Verde	6650
+20 106	San Antonio Acutla	297
+20 107	San Antonio de la Cal	21456
+20 108	San Antonio Huitepec	4289
+20 109	San Antonio Nanahuat°pam	1233
+20 110	San Antonio Sinicahua	1603
+20 111	San Antonio Tepetlapa	4394
+20 112	San Baltazar Chichic†pam	2439
+20 113	San Baltazar Loxicha	2832
+20 114	San Baltazar Yatzachi el Bajo	677
+20 115	San Bartolo Coyotepec	8684
+20 116	San BartolomÇ Ayautla	4052
+20 117	San BartolomÇ Loxicha	2422
+20 118	San BartolomÇ Quialana	2470
+20 119	San BartolomÇ Yucua§e	399
+20 120	San BartolomÇ Zoogocho	368
+20 121	San Bartolo Soyaltepec	655
+20 122	San Bartolo Yautepec	677
+20 123	San Bernardo Mixtepec	2705
+20 124	San Blas Atempa	17094
+20 125	San Carlos Yautepec	11813
+20 126	San Crist¢bal Amatl†n	5024
+20 127	San Crist¢bal Amoltepec	1283
+20 128	San Crist¢bal Lachirioag	1230
+20 129	San Crist¢bal Suchixtlahuaca	334
+20 130	San Dionisio del Mar	5098
+20 131	San Dionisio Ocotepec	10500
+20 132	San Dionisio Ocotl†n	1245
+20 133	San Esteban Atatlahuca	3974
+20 134	San Felipe Jalapa de D°az	26838
+20 135	San Felipe Tejal†pam	7187
+20 136	San Felipe Usila	11575
+20 137	San Francisco Cahuacu†	3427
+20 138	San Francisco Cajonos	460
+20 139	San Francisco Chapulapa	2136
+20 140	San Francisco Chind£a	827
+20 141	San Francisco del Mar	7232
+20 142	San Francisco Huehuetl†n	1160
+20 143	San Francisco Ixhuat†n	8959
+20 144	San Francisco Jaltepetongo	1110
+20 145	San Francisco Lachigol¢	3474
+20 146	San Francisco Logueche	2666
+20 147	San Francisco Nuxa§o	378
+20 148	San Francisco Ozolotepec	1945
+20 149	San Francisco Sola	1509
+20 150	San Francisco Telixtlahuaca	11893
+20 151	San Francisco Teopan	394
+20 152	San Francisco Tlapancingo	2152
+20 153	San Gabriel Mixtepec	4733
+20 154	San Ildefonso Amatl†n	2393
+20 155	San Ildefonso Sola	940
+20 156	San Ildefonso Villa Alta	3478
+20 157	San Jacinto Amilpas	13860
+20 158	San Jacinto Tlacotepec	2231
+20 159	San Jer¢nimo Coatl†n	5449
+20 160	San Jer¢nimo Silacayoapilla	1449
+20 161	San Jer¢nimo Sosola	2559
+20 162	San Jer¢nimo Taviche	1848
+20 163	San Jer¢nimo Tec¢atl	1606
+20 164	San Jorge Nuchita	3215
+20 165	San JosÇ Ayuquila	1511
+20 166	San JosÇ Chiltepec	11019
+20 167	San JosÇ del Pe§asco	2094
+20 168	San JosÇ Estancia Grande	977
+20 169	San JosÇ Independencia	3684
+20 170	San JosÇ Lachiguiri	3849
+20 171	San JosÇ Tenango	18478
+20 172	San Juan Achiutla	430
+20 173	San Juan Atepec	1517
+20 174	µnimas Trujano	3759
+20 175	San Juan Bautista Atatlahuca	1724
+20 176	San Juan Bautista Coixtlahuaca	2808
+20 177	San Juan Bautista Cuicatl†n	9441
+20 178	San Juan Bautista Guelache	6287
+20 179	San Juan Bautista Jayacatl†n	1462
+20 180	San Juan Bautista Lo de Soto	2325
+20 181	San Juan Bautista Suchitepec	417
+20 182	San Juan Bautista Tlacoatzintepec	2292
+20 183	San Juan Bautista Tlachichilco	1447
+20 184	San Juan Bautista Tuxtepec	155766
+20 185	San Juan Cacahuatepec	8680
+20 186	San Juan Cieneguilla	605
+20 187	San Juan Coatz¢spam	2535
+20 188	San Juan Colorado	9494
+20 189	San Juan Comaltepec	2517
+20 190	San Juan Cotzoc¢n	22356
+20 191	San Juan Chicomez£chil	320
+20 192	San Juan Chilateca	1442
+20 193	San Juan del Estado	2546
+20 194	San Juan del R°o	1231
+20 195	San Juan Diuxi	1256
+20 196	San Juan Evangelista Analco	404
+20 197	San Juan Guelav°a	3047
+20 198	San Juan Guichicovi	28142
+20 199	San Juan Ihualtepec	713
+20 200	San Juan Juquila Mixes	3924
+20 201	San Juan Juquila Vijanos	1832
+20 202	San Juan Lachao	4531
+20 203	San Juan Lachigalla	3285
+20 204	San Juan Lajarcia	715
+20 205	San Juan Lalana	17398
+20 206	San Juan de los CuÇs	2357
+20 207	San Juan Mazatl†n	17100
+20 208	San Juan Mixtepec -Dto. 08 -	7611
+20 209	San Juan Mixtepec -Dto. 26 -	711
+20 210	San Juan •um°	6666
+20 211	San Juan Ozolotepec	3168
+20 212	San Juan Petlapa	2807
+20 213	San Juan Quiahije	3628
+20 214	San Juan Quiotepec	2313
+20 215	San Juan Sayultepec	764
+20 216	San Juan Taba†	1331
+20 217	San Juan Tamazola	3446
+20 218	San Juan Teita	607
+20 219	San Juan Teitipac	2565
+20 220	San Juan Tepeuxila	2773
+20 221	San Juan Teposcolula	1340
+20 222	San Juan YaeÇ	1530
+20 223	San Juan Yatzona	452
+20 224	San Juan Yucuita	684
+20 225	San Lorenzo	5955
+20 226	San Lorenzo Albarradas	2708
+20 227	San Lorenzo Cacaotepec	13704
+20 228	San Lorenzo Cuaunecuiltitla	771
+20 229	San Lorenzo Texmel£can	7048
+20 230	San Lorenzo Victoria	1007
+20 231	San Lucas Camotl†n	3026
+20 232	San Lucas Ojitl†n	21514
+20 233	San Lucas Quiavin°	1745
+20 234	San Lucas Zoqui†pam	7554
+20 235	San Luis Amatl†n	3624
+20 236	San Marcial Ozolotepec	1525
+20 237	San Marcos Arteaga	1557
+20 238	San Mart°n de los Cansecos	816
+20 239	San Mart°n Huamel£lpam	1077
+20 240	San Mart°n Itunyoso	2460
+20 241	San Mart°n Lachil†	1084
+20 242	San Mart°n Peras	11361
+20 243	San Mart°n Tilcajete	1742
+20 244	San Mart°n Toxpalan	3669
+20 245	San Mart°n Zacatepec	1277
+20 246	San Mateo Cajonos	620
+20 247	Capul†lpam de MÇndez	1467
+20 248	San Mateo del Mar	14252
+20 249	San Mateo Yoloxochitl†n	3475
+20 250	San Mateo Etlatongo	1181
+20 251	San Mateo Nej†pam	1180
+20 252	San Mateo Pe§asco	2116
+20 253	San Mateo Pi§as	2226
+20 254	San Mateo R°o Hondo	3308
+20 255	San Mateo Sindihui	2086
+20 256	San Mateo Tlapiltepec	234
+20 257	San Melchor Betaza	1091
+20 258	San Miguel Achiutla	744
+20 259	San Miguel Ahuehuetitl†n	2465
+20 260	San Miguel Alo†pam	2488
+20 261	San Miguel Amatitl†n	7244
+20 262	San Miguel Amatl†n	1043
+20 263	San Miguel Coatl†n	3483
+20 264	San Miguel Chicahua	2274
+20 265	San Miguel Chimalapa	6608
+20 266	San Miguel del Puerto	8481
+20 267	San Miguel del R°o	294
+20 268	San Miguel Ejutla	916
+20 269	San Miguel el Grande	4127
+20 270	San Miguel Huautla	1399
+20 271	San Miguel Mixtepec	3245
+20 272	San Miguel Panixtlahuaca	6161
+20 273	San Miguel Peras	3497
+20 274	San Miguel Piedras	1296
+20 275	San Miguel Quetzaltepec	7293
+20 276	San Miguel Santa Flor	801
+20 277	Villa Sola de Vega	12525
+20 278	San Miguel Soyaltepec	36564
+20 279	San Miguel Suchixtepec	2911
+20 280	Villa Talea de Castro	2394
+20 281	San Miguel Tecomatl†n	308
+20 282	San Miguel Tenango	794
+20 283	San Miguel Tequixtepec	1042
+20 284	San Miguel Tilqui†pam	3160
+20 285	San Miguel Tlacamama	3386
+20 286	San Miguel Tlacotepec	3220
+20 287	San Miguel Tulancingo	346
+20 288	San Miguel Yotao	611
+20 289	San Nicol†s	1143
+20 290	San Nicol†s Hidalgo	1012
+20 291	San Pablo Coatl†n	4167
+20 292	San Pablo Cuatro Venados	1388
+20 293	San Pablo Etla	15535
+20 294	San Pablo Huitzo	6307
+20 295	San Pablo Huixtepec	9025
+20 296	San Pablo Macuiltianguis	929
+20 297	San Pablo Tijaltepec	2150
+20 298	San Pablo Villa de Mitla	11825
+20 299	San Pablo Yaganiza	1108
+20 300	San Pedro Amuzgos	6468
+20 301	San Pedro Ap¢stol	1544
+20 302	San Pedro Atoyac	4136
+20 303	San Pedro Cajonos	1172
+20 304	San Pedro Coxcaltepec C†ntaros	851
+20 305	San Pedro Comitancillo	3944
+20 306	San Pedro el Alto	3903
+20 307	San Pedro Huamelula	9594
+20 308	San Pedro Huilotepec	2839
+20 309	San Pedro Ixcatl†n	10371
+20 310	San Pedro Ixtlahuaca	6822
+20 311	San Pedro Jaltepetongo	458
+20 312	San Pedro Jicay†n	11555
+20 313	San Pedro Jocotipac	834
+20 314	San Pedro Juchatengo	1693
+20 315	San Pedro M†rtir	1711
+20 316	San Pedro M†rtir Quiechapa	753
+20 317	San Pedro M†rtir Yucuxaco	1405
+20 318	San Pedro Mixtepec -Dto. 22 -	42860
+20 319	San Pedro Mixtepec -Dto. 26 -	1099
+20 320	San Pedro Molinos	723
+20 321	San Pedro Nopala	840
+20 322	San Pedro Ocopetatillo	884
+20 323	San Pedro Ocotepec	2135
+20 324	San Pedro Pochutla	43860
+20 325	San Pedro Quiatoni	10491
+20 326	San Pedro Sochi†pam	4957
+20 327	San Pedro Tapanatepec	13992
+20 328	San Pedro Taviche	1173
+20 329	San Pedro Teozacoalco	1320
+20 330	San Pedro Teutila	4277
+20 331	San Pedro Tida†	894
+20 332	San Pedro Topiltepec	406
+20 333	San Pedro Totol†pam	2603
+20 334	Villa de Tututepec de Melchor Ocampo	43913
+20 335	San Pedro Yaneri	1002
+20 336	San Pedro Y¢lox	2267
+20 337	San Pedro y San Pablo Ayutla	5602
+20 338	Villa de Etla	9280
+20 339	San Pedro y San Pablo Teposcolula	3989
+20 340	San Pedro y San Pablo Tequixtepec	1878
+20 341	San Pedro Yucunama	232
+20 342	San Raymundo Jalpan	2079
+20 343	San Sebasti†n Abasolo	1849
+20 344	San Sebasti†n Coatl†n	2613
+20 345	San Sebasti†n Ixcapa	3968
+20 346	San Sebasti†n Nicananduta	1449
+20 347	San Sebasti†n R°o Hondo	3664
+20 348	San Sebasti†n Tecomaxtlahuaca	8246
+20 349	San Sebasti†n Teitipac	1976
+20 350	San Sebasti†n Tutla	16241
+20 351	San Sim¢n Almolongas	2623
+20 352	San Sim¢n Zahuatl†n	3833
+20 353	Santa Ana	1978
+20 354	Santa Ana Ateixtlahuaca	510
+20 355	Santa Ana CuauhtÇmoc	738
+20 356	Santa Ana del Valle	1993
+20 357	Santa Ana Tavela	908
+20 358	Santa Ana Tlapacoyan	1854
+20 359	Santa Ana Yareni	809
+20 360	Santa Ana Zegache	3592
+20 361	Santa Catalina Quier°	922
+20 362	Santa Catarina Cuixtla	1496
+20 363	Santa Catarina Ixtepeji	2633
+20 364	Santa Catarina Juquila	14710
+20 365	Santa Catarina Lachatao	1307
+20 366	Santa Catarina Loxicha	3986
+20 367	Santa Catarina Mechoac†n	4543
+20 368	Santa Catarina Minas	1816
+20 369	Santa Catarina QuianÇ	1847
+20 370	Santa Catarina Tayata	679
+20 371	Santa Catarina Ticu†	954
+20 372	Santa Catarina Yosonot£	1886
+20 373	Santa Catarina Zapoquila	448
+20 374	Santa Cruz Acatepec	1470
+20 375	Santa Cruz Amilpas	10120
+20 376	Santa Cruz de Bravo	364
+20 377	Santa Cruz Itundujia	10975
+20 378	Santa Cruz Mixtepec	3615
+20 379	Santa Cruz Nundaco	2958
+20 380	Santa Cruz Papalutla	1972
+20 381	Santa Cruz Tacache de Mina	2606
+20 382	Santa Cruz Tacahua	1170
+20 383	Santa Cruz Tayata	608
+20 384	Santa Cruz Xitla	4514
+20 385	Santa Cruz Xoxocotl†n	77833
+20 386	Santa Cruz Zenzontepec	17897
+20 387	Santa Gertrudis	2858
+20 388	Santa InÇs del Monte	2535
+20 389	Santa InÇs Yatzeche	921
+20 390	Santa Luc°a del Camino	47356
+20 391	Santa Luc°a Miahuatl†n	3356
+20 392	Santa Luc°a Monteverde	6678
+20 393	Santa Luc°a Ocotl†n	3604
+20 394	Santa Mar°a Alotepec	2778
+20 395	Santa Mar°a Apazco	1898
+20 396	Santa Mar°a la Asunci¢n	3252
+20 397	Heroica Ciudad de Tlaxiaco	38453
+20 398	Ayoquezco de Aldama	4406
+20 399	Santa Mar°a Atzompa	27465
+20 400	Santa Mar°a Camotl†n	1632
+20 401	Santa Mar°a Colotepec	22562
+20 402	Santa Mar°a Cortijo	1083
+20 403	Santa Mar°a Coyotepec	2772
+20 404	Santa Mar°a Chacho†pam	766
+20 405	Villa de Chilapa de D°az	1932
+20 406	Santa Mar°a Chilchotla	20584
+20 407	Santa Mar°a Chimalapa	8506
+20 408	Santa Mar°a del Rosario	480
+20 409	Santa Mar°a del Tule	8165
+20 410	Santa Mar°a Ecatepec	3461
+20 411	Santa Mar°a GuelacÇ	816
+20 412	Santa Mar°a Guienagati	3286
+20 413	Santa Mar°a Huatulco	38629
+20 414	Santa Mar°a Huazolotitl†n	10794
+20 415	Santa Mar°a Ipalapa	4888
+20 416	Santa Mar°a Ixcatl†n	516
+20 417	Santa Mar°a Jacatepec	9240
+20 418	Santa Mar°a Jalapa del MarquÇs	11888
+20 419	Santa Mar°a Jaltianguis	575
+20 420	Santa Mar°a Lachix°o	1680
+20 421	Santa Mar°a Mixtequilla	4442
+20 422	Santa Mar°a Nativitas	681
+20 423	Santa Mar°a Nduayaco	550
+20 424	Santa Mar°a Ozolotepec	3992
+20 425	Santa Mar°a P†palo	2209
+20 426	Santa Mar°a Pe§oles	7865
+20 427	Santa Mar°a Petapa	15387
+20 428	Santa Mar°a Quiegolani	1770
+20 429	Santa Mar°a Sola	1524
+20 430	Santa Mar°a Tataltepec	253
+20 431	Santa Mar°a Tecomavaca	1774
+20 432	Santa Mar°a Temaxcalapa	968
+20 433	Santa Mar°a Temaxcaltepec	2595
+20 434	Santa Mar°a Teopoxco	4651
+20 435	Santa Mar°a Tepantlali	3505
+20 436	Santa Mar°a Texcatitl†n	1113
+20 437	Santa Mar°a Tlahuitoltepec	9663
+20 438	Santa Mar°a Tlalixtac	1754
+20 439	Santa Mar°a Tonameca	24318
+20 440	Santa Mar°a Totolapilla	896
+20 441	Santa Mar°a Xadani	7781
+20 442	Santa Mar°a Yalina	354
+20 443	Santa Mar°a Yaves°a	448
+20 444	Santa Mar°a Yolotepec	461
+20 445	Santa Mar°a Yosoy£a	1642
+20 446	Santa Mar°a Yucuhiti	6551
+20 447	Santa Mar°a Zacatepec	15076
+20 448	Santa Mar°a Zaniza	2009
+20 449	Santa Mar°a Zoquitl†n	3359
+20 450	Santiago Amoltepec	12313
+20 451	Santiago Apoala	1053
+20 452	Santiago Ap¢stol	4220
+20 453	Santiago Astata	3915
+20 454	Santiago Atitl†n	3180
+20 455	Santiago Ayuquililla	2748
+20 456	Santiago Cacaloxtepec	1686
+20 457	Santiago Camotl†n	3395
+20 458	Santiago Comaltepec	1115
+20 459	Santiago Chazumba	4479
+20 460	Santiago Cho†pam	5413
+20 461	Santiago del R°o	614
+20 462	Santiago Huajolotitl†n	4350
+20 463	Santiago Huauclilla	663
+20 464	Santiago Ihuitl†n Plumas	480
+20 465	Santiago Ixcuintepec	1568
+20 466	Santiago Ixtayutla	11917
+20 467	Santiago Jamiltepec	18383
+20 468	Santiago Jocotepec	13568
+20 469	Santiago Juxtlahuaca	32927
+20 470	Santiago Lachiguiri	4693
+20 471	Santiago Lalopa	496
+20 472	Santiago Laollaga	3198
+20 473	Santiago Laxopa	1394
+20 474	Santiago Llano Grande	3260
+20 475	Santiago Matatl†n	9653
+20 476	Santiago Miltepec	409
+20 477	Santiago Minas	1430
+20 478	Santiago Nacaltepec	1913
+20 479	Santiago Nejapilla	219
+20 480	Santiago Nundiche	967
+20 481	Santiago Nuyo¢	1966
+20 482	Santiago Pinotepa Nacional	50309
+20 483	Santiago Suchilquitongo	9542
+20 484	Santiago Tamazola	4207
+20 485	Santiago Tapextla	3031
+20 486	Villa Tej£pam de la Uni¢n	2469
+20 487	Santiago Tenango	1945
+20 488	Santiago Tepetlapa	131
+20 489	Santiago Tetepec	4953
+20 490	Santiago Texcalcingo	3076
+20 491	Santiago Textitl†n	4170
+20 492	Santiago Tilantongo	3210
+20 493	Santiago Tillo	553
+20 494	Santiago Tlazoyaltepec	4894
+20 495	Santiago Xanica	2884
+20 496	Santiago Xiacu°	2171
+20 497	Santiago Yaitepec	4122
+20 498	Santiago Yaveo	6665
+20 499	Santiago YolomÇcatl	2021
+20 500	Santiago Yosond£a	7883
+20 501	Santiago Yucuyachi	940
+20 502	Santiago Zacatepec	5515
+20 503	Santiago Zoochila	374
+20 504	Nuevo Zoqui†pam	1652
+20 505	Santo Domingo Ingenio	7554
+20 506	Santo Domingo Albarradas	782
+20 507	Santo Domingo Armenta	3224
+20 508	Santo Domingo Chihuit†n	1521
+20 509	Santo Domingo de Morelos	10547
+20 510	Santo Domingo Ixcatl†n	877
+20 511	Santo Domingo Nuxa†	3610
+20 512	Santo Domingo Ozolotepec	913
+20 513	Santo Domingo Petapa	8394
+20 514	Santo Domingo Roayaga	997
+20 515	Santo Domingo Tehuantepec	61872
+20 516	Santo Domingo Teojomulco	4571
+20 517	Santo Domingo Tepuxtepec	5194
+20 518	Santo Domingo Tlatay†pam	153
+20 519	Santo Domingo Tomaltepec	2790
+20 520	Santo Domingo Tonal†	7153
+20 521	Santo Domingo Tonaltepec	276
+20 522	Santo Domingo Xagac°a	1213
+20 523	Santo Domingo Yanhuitl†n	1609
+20 524	Santo Domingo Yodohino	369
+20 525	Santo Domingo Zanatepec	11218
+20 526	Santos Reyes Nopala	15986
+20 527	Santos Reyes P†palo	2829
+20 528	Santos Reyes Tepejillo	1213
+20 529	Santos Reyes Yucun†	1332
+20 530	Santo Tom†s Jalieza	3385
+20 531	Santo Tom†s Mazaltepec	2333
+20 532	Santo Tom†s Ocotepec	4076
+20 533	Santo Tom†s Tamazulapan	2191
+20 534	San Vicente Coatl†n	3964
+20 535	San Vicente Lachix°o	2976
+20 536	San Vicente Nu§£	493
+20 537	Silacayo†pam	6747
+20 538	Sitio de Xitlapehua	705
+20 539	Soledad Etla	5025
+20 540	Villa de Tamazul†pam del Progreso	7059
+20 541	Tanetze de Zaragoza	1707
+20 542	Taniche	746
+20 543	Tataltepec de ValdÇs	5561
+20 544	Teococuilco de Marcos PÇrez	1106
+20 545	Teotitl†n de Flores Mag¢n	8966
+20 546	Teotitl†n del Valle	5638
+20 547	Teotongo	951
+20 548	Tepelmeme Villa de Morelos	1734
+20 549	Tezoatl†n de Segura y Luna	11319
+20 550	San Jer¢nimo Tlacochahuaya	5076
+20 551	Tlacolula de Matamoros	19625
+20 552	Tlacotepec Plumas	510
+20 553	Tlalixtac de Cabrera	9417
+20 554	Totontepec Villa de Morelos	5598
+20 555	Trinidad Zaachila	2653
+20 556	La Trinidad Vista Hermosa	249
+20 557	Uni¢n Hidalgo	13970
+20 558	Valerio Trujano	1543
+20 559	San Juan Bautista Valle Nacional	22446
+20 560	Villa D°az Ordaz	6174
+20 561	Yaxe	2683
+20 562	Magdalena Yodocono de Porfirio D°az	1458
+20 563	Yogana	1308
+20 564	Yutanduchi de Guerrero	1292
+20 565	Villa de Zaachila	34101
+20 566	San Mateo Yucutind¢	3034
+20 567	Zapotitl†n Lagunas	3133
+20 568	Zapotitl†n Palmas	1514
+20 569	Santa InÇs de Zaragoza	1707
+20 570	Zimatl†n de µlvarez	19215
+21 001	Acajete	60353
+21 002	Acateno	8916
+21 003	Acatl†n	33865
+21 004	Acatzingo	52078
+21 005	Acteopan	2881
+21 006	Ahuacatl†n	14754
+21 007	Ahuatl†n	3403
+21 008	Ahuazotepec	10457
+21 009	Ahuehuetitla	2008
+21 010	Ajalpan	60621
+21 011	Albino Zertuche	1770
+21 012	Aljojuca	6288
+21 013	Altepexi	18920
+21 014	Amixtl†n	5004
+21 015	Amozoc	100964
+21 016	Aquixtla	7848
+21 017	Atempan	25386
+21 018	Atexcal	3734
+21 019	Atlixco	127062
+21 020	Atoyatempan	6426
+21 021	Atzala	1228
+21 022	Atzitzihuac†n	11684
+21 023	Atzitzintla	8408
+21 024	Axutla	947
+21 025	Ayotoxco de Guerrero	8153
+21 026	Calpan	13730
+21 027	Caltepec	4177
+21 028	Camocuautla	2476
+21 029	Caxhuacan	3791
+21 030	Coatepec	758
+21 031	Coatzingo	2964
+21 032	Cohetzala	1283
+21 033	Cohuecan	4763
+21 034	Coronango	34596
+21 035	Coxcatl†n	19639
+21 036	Coyomeapan	14205
+21 037	Coyotepec	2339
+21 038	Cuapiaxtla de Madero	8709
+21 039	Cuautempan	9212
+21 040	Cuautinch†n	9538
+21 041	Cuautlancingo	79153
+21 042	Cuayuca de Andrade	3062
+21 043	Cuetzalan del Progreso	47433
+21 044	Cuyoaco	15367
+21 045	Chalchicomula de Sesma	43882
+21 046	Chapulco	6992
+21 047	Chiautla	19037
+21 048	Chiautzingo	18762
+21 049	Chiconcuautla	15767
+21 050	Chichiquila	24148
+21 051	Chietla	33935
+21 052	Chigmecatitl†n	1227
+21 053	Chignahuapan	57909
+21 054	Chignautla	30254
+21 055	Chila	4699
+21 056	Chila de la Sal	1237
+21 057	Honey	7463
+21 058	Chilchotla	19257
+21 059	Chinantla	2468
+21 060	Domingo Arenas	6946
+21 061	Eloxochitl†n	12575
+21 062	Epatl†n	4594
+21 063	Esperanza	13785
+21 064	Francisco Z. Mena	16270
+21 065	General Felipe µngeles	19040
+21 066	Guadalupe	6276
+21 067	Guadalupe Victoria	16551
+21 068	Hermenegildo Galeana	7718
+21 069	Huaquechula	25373
+21 070	Huatlatlauca	6643
+21 071	Huauchinango	97753
+21 072	Huehuetla	15689
+21 073	Huehuetl†n el Chico	8679
+21 074	Huejotzingo	63457
+21 075	Hueyapan	11868
+21 076	Hueytamalco	26689
+21 077	Hueytlalpan	5734
+21 078	Huitzilan de Serd†n	13982
+21 079	Huitziltepec	5306
+21 080	Atlequizayan	2833
+21 081	Ixcamilpa de Guerrero	3695
+21 082	Ixcaquixtla	8093
+21 083	Ixtacamaxtitl†n	25326
+21 084	Ixtepec	6811
+21 085	Iz£car de Matamoros	72799
+21 086	Jalpan	12547
+21 087	Jolalpan	12662
+21 088	Jonotla	4598
+21 089	Jopala	12997
+21 090	Juan C. Bonilla	18540
+21 091	Juan Galindo	10213
+21 092	Juan N. MÇndez	5223
+21 093	Lafragua	7767
+21 094	Libres	31532
+21 095	La Magdalena Tlatlauquitepec	484
+21 096	Mazapiltepec de Ju†rez	2633
+21 097	Mixtla	2216
+21 098	Molcaxac	6218
+21 099	Ca§ada Morelos	18954
+21 100	Naupan	9707
+21 101	Nauzontla	3598
+21 102	Nealtican	12011
+21 103	Nicol†s Bravo	6009
+21 104	Nopalucan	27292
+21 105	Ocotepec	4825
+21 106	Ocoyucan	25720
+21 107	Olintla	11641
+21 108	Oriental	16575
+21 109	Pahuatl†n	20618
+21 110	Palmar de Bravo	42887
+21 111	Pantepec	18435
+21 112	Petlalcingo	9382
+21 113	Piaxtla	4585
+21 114	Puebla	1539819
+21 115	Quecholac	47281
+21 116	Quimixtl†n	21275
+21 117	Rafael Lara Grajales	14052
+21 118	Los Reyes de Ju†rez	25553
+21 119	San AndrÇs Cholula	100439
+21 120	San Antonio Ca§ada	5110
+21 121	San Diego la Mesa Tochimiltzingo	1132
+21 122	San Felipe Teotlalcingo	9426
+21 123	San Felipe Tepatl†n	4120
+21 124	San Gabriel Chilac	14454
+21 125	San Gregorio Atzompa	8170
+21 126	San Jer¢nimo Tecuanipan	5826
+21 127	San Jer¢nimo Xayacatl†n	3777
+21 128	San JosÇ Chiapa	8087
+21 129	San JosÇ Miahuatl†n	12699
+21 130	San Juan Atenco	3416
+21 131	San Juan Atzompa	872
+21 132	San Mart°n Texmelucan	141112
+21 133	San Mart°n Totoltepec	651
+21 134	San Mat°as Tlalancaleca	19310
+21 135	San Miguel Ixitl†n	586
+21 136	San Miguel Xoxtla	11598
+21 137	San Nicol†s Buenos Aires	9185
+21 138	San Nicol†s de los Ranchos	10777
+21 139	San Pablo Anicano	3554
+21 140	San Pedro Cholula	120459
+21 141	San Pedro Yeloixtlahuaca	3395
+21 142	San Salvador el Seco	27622
+21 143	San Salvador el Verde	28419
+21 144	San Salvador Huixcolotla	13541
+21 145	San Sebasti†n Tlacotepec	13534
+21 146	Santa Catarina Tlaltempan	874
+21 147	Santa InÇs Ahuatempan	5944
+21 148	Santa Isabel Cholula	8040
+21 149	Santiago Miahuatl†n	21993
+21 150	Huehuetl†n el Grande	7060
+21 151	Santo Tom†s Hueyotlipan	8016
+21 152	Soltepec	11706
+21 153	Tecali de Herrera	20267
+21 154	Tecamachalco	71571
+21 155	Tecomatl†n	5420
+21 156	Tehuac†n	274906
+21 157	Tehuitzingo	11328
+21 158	Tenampulco	6772
+21 159	Teopantl†n	4024
+21 160	Teotlalco	3121
+21 161	Tepanco de L¢pez	19002
+21 162	Tepango de Rodr°guez	4244
+21 163	Tepatlaxco de Hidalgo	16275
+21 164	Tepeaca	74708
+21 165	Tepemaxalco	1141
+21 166	Tepeojuma	8056
+21 167	Tepetzintla	10240
+21 168	Tepexco	6580
+21 169	Tepexi de Rodr°guez	20478
+21 170	Tepeyahualco	16390
+21 171	Tepeyahualco de CuauhtÇmoc	3365
+21 172	Tetela de Ocampo	25793
+21 173	Teteles de Avila Castillo	5689
+21 174	Teziutl†n	92246
+21 175	Tianguismanalco	9807
+21 176	Tilapa	8401
+21 177	Tlacotepec de Benito Ju†rez	48268
+21 178	Tlacuilotepec	17115
+21 179	Tlachichuca	28568
+21 180	Tlahuapan	36518
+21 181	Tlaltenango	6269
+21 182	Tlanepantla	4833
+21 183	Tlaola	19826
+21 184	Tlapacoya	6406
+21 185	Tlapanal†	8404
+21 186	Tlatlauquitepec	51495
+21 187	Tlaxco	5415
+21 188	Tochimilco	17028
+21 189	Tochtepec	19701
+21 190	Totoltepec de Guerrero	1155
+21 191	Tulcingo	9245
+21 192	Tuzamapan de Galeana	5983
+21 193	Tzicatlacoyan	6242
+21 194	Venustiano Carranza	27890
+21 195	Vicente Guerrero	24217
+21 196	Xayacatl†n de Bravo	1649
+21 197	Xicotepec	75601
+21 198	Xicotl†n	1241
+21 199	Xiutetelco	37910
+21 200	Xochiapulco	3911
+21 201	Xochiltepec	3187
+21 202	Xochitl†n de Vicente Su†rez	12249
+21 203	Xochitl†n Todos Santos	6049
+21 204	Yaon†huac	7514
+21 205	Yehualtepec	22976
+21 206	Zacapala	4224
+21 207	Zacapoaxtla	53295
+21 208	Zacatl†n	76296
+21 209	Zapotitl†n	8220
+21 210	Zapotitl†n de MÇndez	5608
+21 211	Zaragoza	15444
+21 212	Zautla	19438
+21 213	Zihuateutla	12530
+21 214	Zinacatepec	15690
+21 215	Zongozotla	4599
+21 216	Zoquiapan	2639
+21 217	Zoquitl†n	20529
+22 001	Amealco de Bonfil	62197
+22 002	Pinal de Amoles	27093
+22 003	Arroyo Seco	12910
+22 004	Cadereyta de Montes	64183
+22 005	Col¢n	58171
+22 006	Corregidora	143073
+22 007	Ezequiel Montes	38123
+22 008	Huimilpan	35554
+22 009	Jalpan de Serra	25550
+22 010	Landa de Matamoros	19929
+22 011	El MarquÇs	116458
+22 012	Pedro Escobedo	63966
+22 013	Pe§amiller	18441
+22 014	QuerÇtaro	801940
+22 015	San Joaqu°n	8865
+22 016	San Juan del R°o	241699
+22 017	Tequisquiapan	63413
+22 018	Tolim†n	26372
+23 001	Cozumel	79535
+23 002	Felipe Carrillo Puerto	75026
+23 003	Isla Mujeres	16203
+23 004	Oth¢n P. Blanco	244553
+23 005	Benito Ju†rez	661176
+23 006	JosÇ Mar°a Morelos	36179
+23 007	L†zaro C†rdenas	25333
+23 008	Solidaridad	159310
+23 009	Tulum	28263
+24 001	Ahualulco	18644
+24 002	Alaquines	8186
+24 003	Aquism¢n	47423
+24 004	Armadillo de los Infante	4436
+24 005	C†rdenas	18937
+24 006	Catorce	9716
+24 007	Cedral	18485
+24 008	Cerritos	21394
+24 009	Cerro de San Pedro	4021
+24 010	Ciudad del Ma°z	31323
+24 011	Ciudad Fern†ndez	43528
+24 012	Tancanhuitz	21039
+24 013	Ciudad Valles	167713
+24 014	Coxcatl†n	17015
+24 015	Charcas	21138
+24 016	Ebano	41529
+24 017	Guadalc†zar	25985
+24 018	Huehuetl†n	15311
+24 019	Lagunillas	5774
+24 020	Matehuala	91522
+24 021	Mexquitic de Carmona	53442
+24 022	Moctezuma	19327
+24 023	Ray¢n	15707
+24 024	Rioverde	91924
+24 025	Salinas	30190
+24 026	San Antonio	9390
+24 027	San Ciro de Acosta	10171
+24 028	San Luis Potos°	772604
+24 029	San Mart°n Chalchicuautla	21347
+24 030	San Nicol†s Tolentino	5466
+24 031	Santa Catarina	11835
+24 032	Santa Mar°a del R°o	40326
+24 033	Santo Domingo	12043
+24 034	San Vicente Tancuayalab	14958
+24 035	Soledad de Graciano S†nchez	267839
+24 036	Tamasopo	28848
+24 037	Tamazunchale	96820
+24 038	Tampac†n	15838
+24 039	Tampamol¢n Corona	14274
+24 040	Tamu°n	37956
+24 041	Tanlaj†s	19312
+24 042	Tanqui†n de Escobedo	14382
+24 043	Tierra Nueva	9024
+24 044	Vanegas	7902
+24 045	Venado	14492
+24 046	Villa de Arriaga	16316
+24 047	Villa de Guadalupe	9779
+24 048	Villa de la Paz	5350
+24 049	Villa de Ramos	37928
+24 050	Villa de Reyes	46898
+24 051	Villa Hidalgo	14876
+24 052	Villa Ju†rez	10174
+24 053	Axtla de Terrazas	33245
+24 054	Xilitla	51498
+24 055	Zaragoza	24596
+24 056	Villa de Arista	15528
+24 057	Matlapa	30299
+24 058	El Naranjo	20495
+25 001	Ahome	416299
+25 002	Angostura	44993
+25 003	Badiraguato	29999
+25 004	Concordia	28493
+25 005	Cosal†	16697
+25 006	Culiac†n	858638
+25 007	Choix	32998
+25 008	Elota	42907
+25 009	Escuinapa	54131
+25 010	El Fuerte	97536
+25 011	Guasave	285912
+25 012	Mazatl†n	438434
+25 013	Mocorito	45847
+25 014	Rosario	49380
+25 015	Salvador Alvarado	79085
+25 016	San Ignacio	22527
+25 017	Sinaloa	88282
+25 018	Navolato	135603
+26 001	Aconchi	2637
+26 002	Agua Prieta	79138
+26 003	Alamos	25848
+26 004	Altar	9049
+26 005	Arivechi	1253
+26 006	Arizpe	3037
+26 007	Atil	625
+26 008	BacadÇhuachi	1252
+26 009	Bacanora	784
+26 010	Bacerac	1467
+26 011	Bacoachi	1646
+26 012	B†cum	22821
+26 013	Ban†michi	1646
+26 014	Bavi†cora	3560
+26 015	Bavispe	1454
+26 016	Benjam°n Hill	5275
+26 017	Caborca	81309
+26 018	Cajeme	409310
+26 019	Cananea	32936
+26 020	Carb¢	5347
+26 021	La Colorada	1663
+26 022	Cucurpe	958
+26 023	Cumpas	6362
+26 024	Divisaderos	813
+26 025	Empalme	54131
+26 026	Etchojoa	60717
+26 027	Fronteras	8639
+26 028	Granados	1150
+26 029	Guaymas	149299
+26 030	Hermosillo	784342
+26 031	Huachinera	1350
+26 032	Hu†sabas	962
+26 033	Huatabampo	79313
+26 034	HuÇpac	1154
+26 035	Imuris	12316
+26 036	Magdalena	29707
+26 037	Mazat†n	1350
+26 038	Moctezuma	4680
+26 039	Naco	6401
+26 040	N†cori Chico	2051
+26 041	Nacozari de Garc°a	12751
+26 042	Navojoa	157729
+26 043	Nogales	220292
+26 044	Onavas	399
+26 045	Opodepe	2878
+26 046	Oquitoa	443
+26 047	Pitiquito	9468
+26 048	Puerto Pe§asco	57342
+26 049	Quiriego	3356
+26 050	Ray¢n	1599
+26 051	Rosario	5226
+26 052	Sahuaripa	6020
+26 053	San Felipe de Jes£s	396
+26 054	San Javier	492
+26 055	San Luis R°o Colorado	178380
+26 056	San Miguel de Horcasitas	8382
+26 057	San Pedro de la Cueva	1604
+26 058	Santa Ana	16014
+26 059	Santa Cruz	1998
+26 060	S†ric	2703
+26 061	Soyopa	1284
+26 062	Suaqui Grande	1121
+26 063	Tepache	1365
+26 064	Trincheras	1731
+26 065	Tubutama	1735
+26 066	Ures	9185
+26 067	Villa Hidalgo	1738
+26 068	Villa Pesqueira	1254
+26 069	YÇcora	6046
+26 070	General Plutarco El°as Calles	15652
+26 071	Benito Ju†rez	22009
+26 072	San Ignacio R°o Muerto	14136
+27 001	Balanc†n	56739
+27 002	C†rdenas	248481
+27 003	Centla	102110
+27 004	Centro	640359
+27 005	Comalcalco	192802
+27 006	Cunduac†n	126416
+27 007	Emiliano Zapata	29518
+27 008	Huimanguillo	179285
+27 009	Jalapa	36391
+27 010	Jalpa de MÇndez	83356
+27 011	Jonuta	29511
+27 012	Macuspana	153132
+27 013	Nacajuca	115066
+27 014	Para°so	86620
+27 015	Tacotalpa	46302
+27 016	Teapa	53555
+27 017	Tenosique	58960
+28 001	Abasolo	12070
+28 002	Aldama	29470
+28 003	Altamira	212001
+28 004	Antiguo Morelos	9003
+28 005	Burgos	4589
+28 006	Bustamante	7636
+28 007	Camargo	14933
+28 008	Casas	4423
+28 009	Ciudad Madero	197216
+28 010	Cruillas	2011
+28 011	G¢mez Far°as	8786
+28 012	Gonz†lez	43435
+28 013	GÅÇmez	15659
+28 014	Guerrero	4477
+28 015	Gustavo D°az Ordaz	15775
+28 016	Hidalgo	23793
+28 017	Jaumave	15105
+28 018	JimÇnez	8338
+28 019	Llera	17333
+28 020	Mainero	2579
+28 021	El Mante	115792
+28 022	Matamoros	489193
+28 023	MÇndez	4530
+28 024	Mier	4762
+28 025	Miguel Alem†n	27015
+28 026	Miquihuana	3514
+28 027	Nuevo Laredo	384033
+28 028	Nuevo Morelos	3381
+28 029	Ocampo	12962
+28 030	Padilla	14020
+28 031	Palmillas	1795
+28 032	Reynosa	608891
+28 033	R°o Bravo	118259
+28 034	San Carlos	9331
+28 035	San Fernando	57220
+28 036	San Nicol†s	1031
+28 037	Soto la Marina	24764
+28 038	Tampico	297554
+28 039	Tula	27572
+28 040	Valle Hermoso	63170
+28 041	Victoria	321953
+28 042	Villagr†n	6316
+28 043	XicotÇncatl	22864
+29 001	Amaxac de Guerrero	9875
+29 002	Apetatitl†n de Antonio Carvajal	13361
+29 003	Atlangatepec	6018
+29 004	Atltzayanca	15935
+29 005	Apizaco	76492
+29 006	Calpulalpan	44807
+29 007	El Carmen Tequexquitla	15368
+29 008	Cuapiaxtla	13671
+29 009	Cuaxomulco	5066
+29 010	Chiautempan	66149
+29 011	Mu§oz de Domingo Arenas	4285
+29 012	Espa§ita	8399
+29 013	Huamantla	84979
+29 014	Hueyotlipan	13879
+29 015	Ixtacuixtla de Mariano Matamoros	35162
+29 016	Ixtenco	6791
+29 017	Mazatecochco de JosÇ Mar°a Morelos	9740
+29 018	Contla de Juan Cuamatzi	35084
+29 019	Tepetitla de Lardiz†bal	18725
+29 020	Sanct¢rum de L†zaro C†rdenas	8474
+29 021	Nanacamilpa de Mariano Arista	16640
+29 022	Acuamanala de Miguel Hidalgo	5711
+29 023	Nat°vitas	23621
+29 024	Panotla	25128
+29 025	San Pablo del Monte	69615
+29 026	Santa Cruz Tlaxcala	17968
+29 027	Tenancingo	11763
+29 028	Teolocholco	21671
+29 029	Tepeyanco	11048
+29 030	Terrenate	13775
+29 031	Tetla de la Solidaridad	28760
+29 032	Tetlatlahuca	12410
+29 033	Tlaxcala	89795
+29 034	Tlaxco	39939
+29 035	Tocatl†n	5589
+29 036	Totolac	20625
+29 037	ZiltlaltÇpec de Trinidad S†nchez Santos	8224
+29 038	Tzompantepec	14611
+29 039	Xaloztoc	21769
+29 040	Xaltocan	9777
+29 041	Papalotla de XicohtÇncatl	26997
+29 042	Xicohtzinco	12255
+29 043	Yauhquemehcan	33081
+29 044	Zacatelco	38654
+29 045	Benito Ju†rez	5687
+29 046	Emiliano Zapata	4146
+29 047	L†zaro C†rdenas	2769
+29 048	La Magdalena Tlaltelulco	16834
+29 049	San Dami†n Tex¢loc	5064
+29 050	San Francisco Tetlanohcan	9880
+29 051	San Jer¢nimo Zacualpan	3581
+29 052	San JosÇ Teacalco	5660
+29 053	San Juan Huactzinco	6821
+29 054	San Lorenzo Axocomanitla	5045
+29 055	San Lucas Tecopilco	2833
+29 056	Santa Ana Nopalucan	6857
+29 057	Santa Apolonia Teacalco	4349
+29 058	Santa Catarina Ayometla	7992
+29 059	Santa Cruz Quilehtla	6296
+29 060	Santa Isabel Xiloxoxtla	4436
+30 001	Acajete	8223
+30 002	Acatl†n	3085
+30 003	Acayucan	83817
+30 004	Actopan	40994
+30 005	Acula	5129
+30 006	Acultzingo	20973
+30 007	Camar¢n de Tejeda	6224
+30 008	Alpatl†huac	9691
+30 009	Alto Lucero de GutiÇrrez Barrios	28017
+30 010	Altotonga	60396
+30 011	Alvarado	51955
+30 012	Amatitl†n	7487
+30 013	Naranjos Amatl†n	27548
+30 014	Amatl†n de los Reyes	42268
+30 015	Angel R. Cabada	33528
+30 016	La Antigua	25500
+30 017	Apazapan	4027
+30 018	Aquila	1797
+30 019	Astacinga	5995
+30 020	Atlahuilco	9824
+30 021	Atoyac	22986
+30 022	Atzacan	20063
+30 023	Atzalan	48397
+30 024	Tlaltetela	14613
+30 025	Ayahualulco	25456
+30 026	Banderilla	21546
+30 027	Benito Ju†rez	16692
+30 028	Boca del R°o	138058
+30 029	Calcahualco	12929
+30 030	Camerino Z. Mendoza	41778
+30 031	Carrillo Puerto	16313
+30 032	Catemaco	48593
+30 033	Cazones de Herrera	23483
+30 034	Cerro Azul	25801
+30 035	CitlaltÇpetl	11081
+30 036	Coacoatzintla	9416
+30 037	Coahuitl†n	7810
+30 038	Coatepec	86696
+30 039	Coatzacoalcos	305260
+30 040	Coatzintla	48351
+30 041	Coetzala	2144
+30 042	Colipa	5728
+30 043	Comapa	18713
+30 044	C¢rdoba	196541
+30 045	Cosamaloapan de Carpio	57366
+30 046	Cosautl†n de Carvajal	15668
+30 047	Coscomatepec	52510
+30 048	Cosoleacaque	117725
+30 049	Cotaxtla	19710
+30 050	Coxquihui	15492
+30 051	Coyutla	21822
+30 052	Cuichapa	11645
+30 053	Cuitl†huac	26265
+30 054	Chacaltianguis	11683
+30 055	Chalma	12626
+30 056	Chiconamel	6752
+30 057	Chiconquiaco	13190
+30 058	Chicontepec	54982
+30 059	Chinameca	15214
+30 060	Chinampa de Gorostiza	15286
+30 061	Las Choapas	77426
+30 062	Chocam†n	18601
+30 063	Chontla	14688
+30 064	Chumatl†n	3889
+30 065	Emiliano Zapata	61718
+30 066	Espinal	25548
+30 067	Filomeno Mata	16418
+30 068	Fort°n	59761
+30 069	GutiÇrrez Zamora	24353
+30 070	Hidalgotitl†n	18277
+30 071	Huatusco	54561
+30 072	Huayacocotla	20765
+30 073	Hueyapan de Ocampo	41649
+30 074	Huiloapan de CuauhtÇmoc	6750
+30 075	Ignacio de la Llave	17121
+30 076	Ilamatl†n	13575
+30 077	Isla	42205
+30 078	Ixcatepec	12713
+30 079	Ixhuac†n de los Reyes	10724
+30 080	Ixhuatl†n del CafÇ	21407
+30 081	Ixhuatlancillo	21150
+30 082	Ixhuatl†n del Sureste	14903
+30 083	Ixhuatl†n de Madero	49820
+30 084	Ixmatlahuacan	5727
+30 085	Ixtaczoquitl†n	65385
+30 086	Jalacingo	40747
+30 087	Xalapa	457928
+30 088	Jalcomulco	4940
+30 089	J†ltipan	39673
+30 090	Jamapa	10376
+30 091	Jes£s Carranza	27080
+30 092	Xico	35188
+30 093	Jilotepec	15313
+30 094	Juan Rodr°guez Clara	37193
+30 095	Juchique de Ferrer	16387
+30 096	Landero y Coss	1546
+30 097	Lerdo de Tejada	20141
+30 098	Magdalena	2920
+30 099	Maltrata	16898
+30 100	Manlio Fabio Altamirano	22585
+30 101	Mariano Escobedo	33941
+30 102	Mart°nez de la Torre	101358
+30 103	Mecatl†n	11808
+30 104	Mecayapan	17333
+30 105	Medell°n	59126
+30 106	Miahuatl†n	4429
+30 107	Las Minas	2897
+30 108	Minatitl†n	157840
+30 109	Misantla	62919
+30 110	Mixtla de Altamirano	10387
+30 111	Moloac†n	16120
+30 112	Naolinco	20255
+30 113	Naranjal	4507
+30 114	Nautla	9974
+30 115	Nogales	34688
+30 116	Oluta	14784
+30 117	Omealca	22561
+30 118	Orizaba	120995
+30 119	Otatitl†n	5250
+30 120	Oteapan	14965
+30 121	Ozuluama de Mascare§as	23276
+30 122	Pajapan	15909
+30 123	P†nuco	97290
+30 124	Papantla	158599
+30 125	Paso del Macho	29165
+30 126	Paso de Ovejas	32576
+30 127	La Perla	23648
+30 128	Perote	68982
+30 129	Plat¢n S†nchez	17888
+30 130	Playa Vicente	40984
+30 131	Poza Rica de Hidalgo	193311
+30 132	Las Vigas de Ram°rez	17958
+30 133	Pueblo Viejo	55358
+30 134	Puente Nacional	21603
+30 135	Rafael Delgado	20245
+30 136	Rafael Lucio	7023
+30 137	Los Reyes	5484
+30 138	R°o Blanco	40634
+30 139	Saltabarranca	5908
+30 140	San AndrÇs Tenejapan	2715
+30 141	San AndrÇs Tuxtla	157364
+30 142	San Juan Evangelista	33435
+30 143	Santiago Tuxtla	56427
+30 144	Sayula de Alem†n	31974
+30 145	Soconusco	14395
+30 146	Sochiapa	3502
+30 147	Soledad Atzompa	21380
+30 148	Soledad de Doblado	27008
+30 149	Soteapan	32596
+30 150	Tamal°n	11211
+30 151	Tamiahua	23588
+30 152	Tampico Alto	12242
+30 153	Tancoco	5873
+30 154	Tantima	12814
+30 155	Tantoyuca	101743
+30 156	Tatatila	5584
+30 157	Castillo de Teayo	18663
+30 158	Tecolutla	25126
+30 159	Tehuipango	23479
+30 160	µlamo Temapache	104499
+30 161	Tempoal	34956
+30 162	Tenampa	6247
+30 163	Tenochtitl†n	5222
+30 164	Teocelo	16327
+30 165	Tepatlaxco	8249
+30 166	Tepetl†n	9004
+30 167	Tepetzintla	13949
+30 168	Tequila	14648
+30 169	JosÇ Azueta	23999
+30 170	Texcatepec	10627
+30 171	Texhuac†n	5292
+30 172	Texistepec	20199
+30 173	Tezonapa	52584
+30 174	Tierra Blanca	94087
+30 175	Tihuatl†n	89774
+30 176	Tlacojalpan	4632
+30 177	Tlacolulan	10299
+30 178	Tlacotalpan	13284
+30 179	Tlacotepec de Mej°a	3965
+30 180	Tlachichilco	11276
+30 181	Tlalixcoyan	37037
+30 182	Tlalnelhuayocan	16311
+30 183	Tlapacoyan	58084
+30 184	Tlaquilpa	7151
+30 185	Tlilapan	4879
+30 186	Tomatl†n	6763
+30 187	Tonay†n	5696
+30 188	Totutla	16403
+30 189	Tuxpan	143362
+30 190	Tuxtilla	2177
+30 191	Ursulo Galv†n	29005
+30 192	Vega de Alatorre	19541
+30 193	Veracruz	552156
+30 194	Villa Aldama	10851
+30 195	Xoxocotla	5163
+30 196	Yanga	17462
+30 197	Yecuatla	11357
+30 198	Zacualpan	6784
+30 199	Zaragoza	10720
+30 200	Zentla	12379
+30 201	Zongolica	41923
+30 202	Zontecomatl†n de L¢pez y Fuentes	13866
+30 203	Zozocolco de Hidalgo	13434
+30 204	Agua Dulce	46010
+30 205	El Higo	19128
+30 206	Nanchital de L†zaro C†rdenas del R°o	27094
+30 207	Tres Valles	45095
+30 208	Carlos A. Carrillo	22907
+30 209	Tatahuicapan de Ju†rez	14297
+30 210	Uxpanapa	27346
+30 211	San Rafael	29277
+30 212	Santiago Sochiapan	12409
+31 001	Abal†	6356
+31 002	Acanceh	15337
+31 003	Akil	10362
+31 004	Baca	5701
+31 005	Bokob†	2053
+31 006	Buctzotz	8637
+31 007	CacalchÇn	6811
+31 008	Calotmul	4095
+31 009	Cansahcab	4696
+31 010	Cantamayec	2407
+31 011	Celest£n	6831
+31 012	Cenotillo	3701
+31 013	Conkal	9143
+31 014	Cuncunul	1595
+31 015	Cuzam†	4966
+31 016	Chacsink°n	2818
+31 017	Chankom	4464
+31 018	Chapab	3035
+31 019	Chemax	33490
+31 020	Chicxulub Pueblo	4113
+31 021	Chichimil†	7952
+31 022	Chikindzonot	4162
+31 023	Chochol†	4530
+31 024	Chumayel	3148
+31 025	Dz†n	4941
+31 026	Dzemul	3489
+31 027	Dzidzant£n	8133
+31 028	Dzilam de Bravo	2463
+31 029	Dzilam Gonz†lez	5905
+31 030	Dzit†s	3540
+31 031	Dzoncauich	2772
+31 032	Espita	15571
+31 033	Halach¢	19072
+31 034	Hocab†	6061
+31 035	Hoct£n	5697
+31 036	Hom£n	7257
+31 037	Huh°	4841
+31 038	Hunucm†	30731
+31 039	Ixil	3803
+31 040	Izamal	25980
+31 041	Kanas°n	78709
+31 042	Kantunil	5502
+31 043	Kaua	2761
+31 044	Kinchil	6571
+31 045	Kopom†	2449
+31 046	Mama	2888
+31 047	Man°	5250
+31 048	Maxcan£	21704
+31 049	Mayap†n	3269
+31 050	MÇrida	830732
+31 051	Mococh†	3071
+31 052	Motul	33978
+31 053	Muna	12336
+31 054	Muxupip	2755
+31 055	OpichÇn	6285
+31 056	Oxkutzcab	29325
+31 057	Panab†	7461
+31 058	Peto	24159
+31 059	Progreso	53958
+31 060	Quintana Roo	942
+31 061	R°o Lagartos	3438
+31 062	Sacalum	4589
+31 063	Samahil	5008
+31 064	Sanahcat	1619
+31 065	San Felipe	1839
+31 066	Santa Elena	3833
+31 067	SeyÇ	9276
+31 068	SinanchÇ	3126
+31 069	Sotuta	8449
+31 070	Sucil†	3930
+31 071	Sudzal	1689
+31 072	Suma	1876
+31 073	Tahdzi£	4447
+31 074	Tahmek	3609
+31 075	Teabo	6205
+31 076	Tecoh	16200
+31 077	Tekal de Venegas	2606
+31 078	Tekant¢	3683
+31 079	Tekax	40547
+31 080	Tekit	9884
+31 081	Tekom	3100
+31 082	Telchac Pueblo	3557
+31 083	Telchac Puerto	1726
+31 084	Temax	6817
+31 085	Temoz¢n	14801
+31 086	Tepak†n	2226
+31 087	Tetiz	4725
+31 088	Teya	1977
+31 089	Ticul	37685
+31 090	Timucuy	6833
+31 091	Tinum	11421
+31 092	Tixcacalcupul	6665
+31 093	Tixkokob	17176
+31 094	Tixmehuac	4746
+31 095	TixpÇhual	5388
+31 096	Tizim°n	73138
+31 097	Tunk†s	3464
+31 098	Tzucacab	14011
+31 099	Uayma	3782
+31 100	Uc£	3469
+31 101	Um†n	50993
+31 102	Valladolid	74217
+31 103	Xocchel	3236
+31 104	Yaxcab†	14802
+31 105	Yaxkukul	2868
+31 106	Yoba°n	2137
+32 001	Apozol	6314
+32 002	Apulco	5005
+32 003	Atolinga	2692
+32 004	Benito Ju†rez	4372
+32 005	Calera	39917
+32 006	Ca§itas de Felipe Pescador	8239
+32 007	Concepci¢n del Oro	12803
+32 008	CuauhtÇmoc	11915
+32 009	Chalchihuites	10565
+32 010	Fresnillo	213139
+32 011	Trinidad Garc°a de la Cadena	3013
+32 012	Genaro Codina	8104
+32 013	General Enrique Estrada	5894
+32 014	General Francisco R. Murgu°a	21974
+32 015	El Plateado de Joaqu°n Amaro	1609
+32 016	General P†nfilo Natera	22346
+32 017	Guadalupe	159991
+32 018	Huanusco	4306
+32 019	Jalpa	23557
+32 020	Jerez	57610
+32 021	JimÇnez del Teul	4584
+32 022	Juan Aldama	20543
+32 023	Juchipila	12284
+32 024	Loreto	48365
+32 025	Luis Moya	12234
+32 026	Mazapil	17813
+32 027	Melchor Ocampo	2662
+32 028	Mezquital del Oro	2584
+32 029	Miguel Auza	22296
+32 030	Momax	2529
+32 031	Monte Escobedo	8929
+32 032	Morelos	11493
+32 033	Moyahua de Estrada	4563
+32 034	Nochistl†n de Mej°a	27932
+32 035	Noria de µngeles	15607
+32 036	Ojocaliente	40740
+32 037	P†nuco	16875
+32 038	Pinos	69844
+32 039	R°o Grande	62693
+32 040	Sain Alto	21533
+32 041	El Salvador	2710
+32 042	Sombrerete	61188
+32 043	Susticac†n	1360
+32 044	Tabasco	15656
+32 045	Tepechitl†n	8215
+32 046	Tepetongo	7090
+32 047	Te£l de Gonz†lez Ortega	5506
+32 048	Tlaltenango de S†nchez Rom†n	25493
+32 049	Valpara°so	33323
+32 050	Vetagrande	9353
+32 051	Villa de Cos	34328
+32 052	Villa Garc°a	18269
+32 053	Villa Gonz†lez Ortega	12893
+32 054	Villa Hidalgo	18490
+32 055	Villanueva	29395
+32 056	Zacatecas	138176
+32 057	Trancoso	16934
+32 058	Santa Mar°a de la Paz	2821
